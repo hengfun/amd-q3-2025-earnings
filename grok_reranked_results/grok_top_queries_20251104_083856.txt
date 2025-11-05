@@ -1,0 +1,253 @@
+TOP QUERIES BY GROK TEXT RANKING
+====================================================================================================
+
+1. Microsoft Azure confirms large-scale deployment of AMD MI300X for new AI services
+   Score: 92.1 (mean: 88.7, best: 90.0)
+   Rank: 1 (best), 39 (avg)
+   M=9.0 D=8.3 W=8.7 M=9.0 S=9.7 N=8.3
+
+2. AMD's Q3 data center revenue exceeds $5 billion, crushing estimates
+   Score: 92.0 (mean: 88.7, best: 95.0)
+   Rank: 2 (best), 36 (avg)
+   M=9.3 D=9.0 W=9.3 M=9.3 S=6.7 N=6.3
+
+3. AMD earnings miss on revenue or EPS Q3 2025
+   Score: 91.7 (mean: 88.2, best: 90.5)
+   Rank: 5 (best), 23 (avg)
+   M=9.7 D=9.0 W=9.0 M=8.7 S=7.0 N=6.7
+
+4. AMD beats EPS and revenue consensus, provides in-line Q4 guidance
+   Score: 91.4 (mean: 87.8, best: 91.0)
+   Rank: 7 (best), 28 (avg)
+   M=9.3 D=9.0 W=9.0 M=9.0 S=7.3 N=6.0
+
+5. major cloud provider quietly shifts capex from Nvidia to AMD Q3 2025
+   Score: 91.2 (mean: 87.5, best: 88.5)
+   Rank: 9 (best), 75 (avg)
+   M=9.0 D=8.3 W=9.0 M=9.0 S=8.0 N=8.0
+
+6. leaked internal memos on AMD beating internal Q3 forecasts
+   Score: 91.1 (mean: 87.3, best: 92.5)
+   Rank: 1 (best), 103 (avg)
+   M=9.0 D=8.7 W=8.7 M=9.0 S=7.7 N=8.7
+
+7. major cloud provider unexpectedly announces large AMD MI350 deployment
+   Score: 91.1 (mean: 87.3, best: 88.5)
+   Rank: 8 (best), 101 (avg)
+   M=9.0 D=8.3 W=9.0 M=9.0 S=7.7 N=8.3
+
+8. AMD MI300X hyperscaler purchase orders leaked November 2025 Meta Microsoft AWS
+   Score: 90.6 (mean: 86.7, best: 90.0)
+   Rank: 10 (best), 67 (avg)
+   M=8.7 D=8.0 W=8.7 M=9.0 S=9.0 N=8.7
+
+9. AMD MI350 performance benchmarks leaked ahead of earnings
+   Score: 90.5 (mean: 86.5, best: 89.5)
+   Rank: 4 (best), 97 (avg)
+   M=8.7 D=8.7 W=8.7 M=9.0 S=8.0 N=8.3
+
+10. AMD AI chip order increases from hyperscalers leaked in procurement databases October 2025
+   Score: 90.3 (mean: 86.3, best: 90.0)
+   Rank: 12 (best), 43 (avg)
+   M=8.7 D=8.3 W=8.3 M=9.0 S=8.7 N=9.0
+
+11. AMD Q3 2025 earnings miss due to China export restrictions impacting stock drop
+   Score: 90.3 (mean: 86.3, best: 87.0)
+   Rank: 14 (best), 127 (avg)
+   M=9.0 D=8.3 W=9.0 M=8.7 S=7.7 N=7.7
+
+12. AMD Q3 earnings call reveals unexpected weakness in AI chip orders
+   Score: 90.3 (mean: 86.2, best: 94.0)
+   Rank: 3 (best), 162 (avg)
+   M=9.0 D=8.3 W=8.7 M=8.7 S=8.3 N=7.3
+
+13. Leaked internal memos on AMD's Q4 guidance optimism shared on anonymous boards
+   Score: 90.1 (mean: 86.2, best: 89.0)
+   Rank: 23 (best), 69 (avg)
+   M=8.7 D=8.3 W=8.7 M=9.0 S=8.0 N=8.7
+
+14. AMD MI300X record orders purchase order leak vendor portal November 2025
+   Score: 90.1 (mean: 86.0, best: 88.5)
+   Rank: 13 (best), 107 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=8.7 N=9.0
+
+15. AMD Q3 2025 earnings miss due to supply chain disruptions in underground reports
+   Score: 90.1 (mean: 86.2, best: 86.5)
+   Rank: 28 (best), 129 (avg)
+   M=9.0 D=8.7 W=8.7 M=8.7 S=7.7 N=7.7
+
+16. leaked AMD internal memo on exceeding AI revenue targets Q3 2025
+   Score: 90.0 (mean: 86.0, best: 89.0)
+   Rank: 18 (best), 99 (avg)
+   M=8.7 D=8.3 W=8.7 M=8.7 S=8.3 N=9.0
+
+17. TSMC COWOS capacity allocation for AMD vs Nvidia October 2025 site:moneydj.com OR site:ctee.com.tw
+   Score: 90.0 (mean: 86.0, best: 88.0)
+   Rank: 22 (best), 71 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=9.3 N=7.7
+
+18. Microsoft Ignite 2025 Azure ND MI series with AMD MI300 announcement
+   Score: 89.9 (mean: 85.7, best: 89.5)
+   Rank: 3 (best), 115 (avg)
+   M=8.7 D=8.3 W=8.7 M=8.7 S=8.7 N=7.7
+
+19. Conference call leaks indicating AMD guidance cuts
+   Score: 89.8 (mean: 85.5, best: 89.0)
+   Rank: 6 (best), 164 (avg)
+   M=8.7 D=8.7 W=8.3 M=9.0 S=8.0 N=7.7
+
+20. Taiwanese media reports of AMD cutting wafer orders from TSMC for Q1 2026
+   Score: 89.6 (mean: 85.5, best: 88.0)
+   Rank: 23 (best), 137 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=8.7 N=8.0
+
+21. Leaked internal AMD memos on margin pressures Q3
+   Score: 89.6 (mean: 85.5, best: 88.5)
+   Rank: 24 (best), 138 (avg)
+   M=8.7 D=8.3 W=8.7 M=8.7 S=8.3 N=8.0
+
+22. export license denial list mentions AMD part numbers MI-series
+   Score: 89.6 (mean: 85.3, best: 87.0)
+   Rank: 16 (best), 100 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=8.3 N=8.3
+
+23. Insider leaks on AMD revenue shortfalls November 2025
+   Score: 89.6 (mean: 85.5, best: 88.5)
+   Rank: 31 (best), 108 (avg)
+   M=8.7 D=8.3 W=8.7 M=9.0 S=7.7 N=8.0
+
+24. AMD misses on both revenue and EPS, provides weak Q4 guidance
+   Score: 89.5 (mean: 85.3, best: 86.5)
+   Rank: 30 (best), 163 (avg)
+   M=9.0 D=8.3 W=8.7 M=9.0 S=7.7 N=5.7
+
+25. AMD Q4 2025 revenue guidance significantly below analyst expectations
+   Score: 89.5 (mean: 85.7, best: 87.0)
+   Rank: 55 (best), 85 (avg)
+   M=9.0 D=8.0 W=9.0 M=9.0 S=7.3 N=6.7
+
+26. AMD Q4 revenue guidance miss versus consensus $8.7B
+   Score: 89.4 (mean: 85.0, best: 90.5)
+   Rank: 8 (best), 152 (avg)
+   M=9.0 D=8.3 W=8.7 M=9.0 S=7.0 N=6.3
+
+27. TSMC CoWoS capacity allocation increase for AMD Q4 2025 TrendForce
+   Score: 89.4 (mean: 85.2, best: 88.0)
+   Rank: 21 (best), 160 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=8.7 N=7.3
+
+28. Hyperscaler delays/cancellations of AMD MI deployments October 2025 site:theinformation.com AMD
+   Score: 89.4 (mean: 85.0, best: 88.0)
+   Rank: 10 (best), 112 (avg)
+   M=8.7 D=8.0 W=8.3 M=8.7 S=8.7 N=8.7
+
+29. site:digitimes.com TSMC CoWoS capacity allocation AMD 2H25
+   Score: 89.4 (mean: 85.3, best: 87.5)
+   Rank: 38 (best), 87 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=9.0 N=7.0
+
+30. Major AI research lab (e.g., Anthropic, Mistral) announces partnership with AMD
+   Score: 89.3 (mean: 84.8, best: 88.5)
+   Rank: 6 (best), 163 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=7.7 N=8.7
+
+31. AMD Q3 2025 data center revenue mix above 50 percent preview signals
+   Score: 89.3 (mean: 85.5, best: 86.5)
+   Rank: 57 (best), 115 (avg)
+   M=9.0 D=8.0 W=9.0 M=9.0 S=7.3 N=6.3
+
+32. Leaked AMD supply chain reports from Asian manufacturers indicating massive AI chip orders post-earnings
+   Score: 89.3 (mean: 84.8, best: 90.0)
+   Rank: 11 (best), 113 (avg)
+   M=8.3 D=8.0 W=8.3 M=9.0 S=8.7 N=9.0
+
+33. Unexpected AMD AI GPU order surges from hyperscalers in supply chain reports November 2025
+   Score: 89.3 (mean: 84.8, best: 88.5)
+   Rank: 14 (best), 212 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=8.0 N=8.0
+
+34. Digitimes report on AMD MI350 volume ramp and strong hyperscaler orders
+   Score: 89.2 (mean: 85.0, best: 88.5)
+   Rank: 36 (best), 78 (avg)
+   M=8.7 D=8.0 W=8.3 M=9.0 S=8.3 N=8.0
+
+35. Negative AMD guide revisions in leaked analyst notes Q3 2025
+   Score: 89.2 (mean: 84.8, best: 87.0)
+   Rank: 24 (best), 111 (avg)
+   M=8.7 D=8.0 W=8.7 M=9.0 S=7.7 N=7.7
+
+36. TSMC CoWoS bottlenecks delaying AMD shipments November 2025 reports
+   Score: 89.2 (mean: 84.7, best: 88.5)
+   Rank: 12 (best), 263 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=8.0 N=7.7
+
+37. Leaked AMD internal memo shows data center revenue forecast for 2026 revised sharply higher
+   Score: 89.1 (mean: 84.5, best: 89.0)
+   Rank: 2 (best), 176 (avg)
+   M=8.3 D=8.0 W=8.3 M=9.0 S=8.3 N=9.0
+
+38. whisper numbers AMD Q4 guide midpoint above $9.3B and GM >=55%
+   Score: 89.0 (mean: 84.7, best: 86.5)
+   Rank: 26 (best), 155 (avg)
+   M=9.0 D=8.7 W=8.7 M=8.3 S=7.3 N=6.7
+
+39. AMD's guidance for Q4 implies significant sequential decline
+   Score: 89.0 (mean: 85.0, best: 85.0)
+   Rank: 53 (best), 162 (avg)
+   M=9.0 D=8.0 W=9.0 M=9.0 S=7.0 N=6.0
+
+40. US restrictions on AI accelerator exports expanded Nov 2025 week site:whitehouse.gov briefing China chips
+   Score: 89.0 (mean: 84.3, best: 88.5)
+   Rank: 4 (best), 246 (avg)
+   M=8.7 D=7.7 W=8.7 M=8.7 S=8.3 N=7.7
+
+41. Major cloud pushouts or cancellations of AMD MI300 orders leaked Nov 2025
+   Score: 89.0 (mean: 84.7, best: 87.0)
+   Rank: 32 (best), 175 (avg)
+   M=8.7 D=8.3 W=8.7 M=8.7 S=7.7 N=7.7
+
+42. AMD's AI revenue forecast for 2026 exceeds $20 billion in earnings call
+   Score: 88.9 (mean: 84.2, best: 96.0)
+   Rank: 1 (best), 322 (avg)
+   M=8.7 D=8.0 W=8.7 M=9.3 S=6.7 N=7.0
+
+43. ServeTheHome early benchmarks comparing AMD MI350 vs NVIDIA H200 performance
+   Score: 88.8 (mean: 84.2, best: 89.5)
+   Rank: 16 (best), 108 (avg)
+   M=8.3 D=7.7 W=8.3 M=9.0 S=9.0 N=8.0
+
+44. AMD AI revenue guidance for 2026 is flat or down from 2025 projections
+   Score: 88.8 (mean: 84.7, best: 85.5)
+   Rank: 54 (best), 164 (avg)
+   M=9.0 D=8.0 W=9.0 M=9.0 S=6.7 N=6.0
+
+45. SK hynix HBM3E shipments to AMD ramp evidence September–October 2025 site:thelec.kr OR site:businesskorea.co.kr
+   Score: 88.7 (mean: 84.2, best: 89.0)
+   Rank: 20 (best), 87 (avg)
+   M=8.3 D=7.3 W=8.3 M=9.0 S=9.7 N=7.7
+
+46. AMD mid-quarter guide cut leak Q4 2025
+   Score: 88.7 (mean: 84.3, best: 86.5)
+   Rank: 34 (best), 212 (avg)
+   M=8.7 D=8.0 W=8.7 M=8.7 S=7.7 N=8.0
+
+47. China export restrictions expanded to MI300 variants November 2025
+   Score: 88.7 (mean: 84.0, best: 87.0)
+   Rank: 13 (best), 225 (avg)
+   M=8.7 D=7.7 W=8.7 M=8.7 S=8.0 N=7.7
+
+48. TSMC CoWoS bottleneck worsening allocation cut for AMD Nov 2025
+   Score: 88.7 (mean: 84.7, best: 87.0)
+   Rank: 63 (best), 90 (avg)
+   M=8.7 D=7.7 W=8.7 M=8.7 S=8.7 N=7.7
+
+49. Analyst downgrades AMD on MI308 charge margin impact November 2025
+   Score: 88.7 (mean: 84.3, best: 86.5)
+   Rank: 39 (best), 213 (avg)
+   M=8.7 D=7.7 W=8.7 M=9.0 S=8.0 N=7.0
+
+50. TSMC CoWoS bottleneck delays AMD shipments November 2025
+   Score: 88.7 (mean: 84.7, best: 87.0)
+   Rank: 65 (best), 101 (avg)
+   M=8.7 D=7.7 W=8.7 M=8.7 S=8.7 N=7.7
+

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-04T12:58:02.330644",
+    "model": "grok-4-fast-reasoning-latest",
+    "current_price": 144.5,
+    "date": "November 4, 2025"
+  },
+  "predictions": {
+    "next_day": {
+      "time_horizon": "next_day",
+      "timestamp": "2025-11-04T12:58:15.965910",
+      "current_price": 144.5,
+      "price_target": 150.75,
+      "direction": "Up 2% to 4%",
+      "confidence": "Partnership revenue ramps (e.g., OpenAI's 2026 1GW) await quantification, per \"Partially\" tags across 70% of positive insights.",
+      "price_range": {
+        "low": 147.5,
+        "high": 154.0
+      },
+      "catalysts": [
+        "Strong Q3 earnings beat on revenue ($8.8B vs. $8.75B consensus) and EPS ($1.20 vs. $1.17 consensus), driven by data center segment exceeding $4.18B from MI300X/MI350 ramps and partnerships like OpenAI's 6GW deployment (Ranks 112, 69, 87).",
+        "Confirmation of AI revenue acceleration in earnings call, including Oracle's 50,000 MI450 GPU order and Meta's 15-20% capex allocation to AMD, validating $15B+ 2025 AI sales forecast (Ranks 8, 26, 64, 83).",
+        "Analyst upgrades post-earnings (e.g., Susquehanna to $300 PT, HSBC to $310) citing incomplete pricing of MI350 benchmarks (35x inference uplift) and hyperscaler order surges, sparking institutional buying (Ranks 22, 7, 16)."
+      ],
+      "risks": [
+        "Weak Q4 guidance below $9.3B consensus due to China export restrictions ($1.5B revenue hit from MI308/MI350 license denials) and HBM/CoWoS supply constraints, triggering sell-off (Ranks 4, 61, 13, 100).",
+        "Nvidia's Blackwell Ultra benchmarks (45% higher throughput) and 85%+ HBM allocation eroding AMD's share, amplified by post-earnings profit-taking amid high valuation (41x forward P/E) (Ranks 46, 65, 131)."
+      ],
+      "scenarios": {
+        "bull": {
+          "probability": 20,
+          "price": 158.0,
+          "description": "Bull Case (20%): $158.00 - Earnings beat with upbeat Q4 guide ($9.5B+ on MI350 ramp and OpenAI details), plus fresh analyst hikes to $300+ PTs, driving 9%+ upside on AI momentum validation and short covering."
+        },
+        "base": {
+          "probability": 60,
+          "price": 150.75,
+          "description": "Base Case (60%): $150.75 - In-line Q3 beat ($8.8B revenue, $1.20 EPS) with conservative Q4 guide ($9.2B midpoint) offset by positive AI partnership commentary, leading to modest 2-4% gain on institutional accumulation despite China risks."
+        },
+        "bear": {
+          "probability": 20,
+          "price": 138.0,
+          "description": "Bear Case (20%): $138.00 - Q3 miss or soft guide ($8.6B revenue) from export/HBM delays, combined with Nvidia competitive leaks, causing 4-6% drop on margin fears (51% Q4 gross margin) and rotation out of semis."
+        }
+      },
+      "reasoning": "",
+      "raw_response": "1. PRICE TARGET: $150.75\n\n2. DIRECTION: Up 2% to 4%\n\n3. CONFIDENCE LEVEL: Medium 70%\n\n4. PRICE RANGE: $147.50 to $154.00\n\n5. TOP 3 CATALYSTS:\n   - Strong Q3 earnings beat on revenue ($8.8B vs. $8.75B consensus) and EPS ($1.20 vs. $1.17 consensus), driven by data center segment exceeding $4.18B from MI300X/MI350 ramps and partnerships like OpenAI's 6GW deployment (Ranks 112, 69, 87).\n   - Confirmation of AI revenue acceleration in earnings call, including Oracle's 50,000 MI450 GPU order and Meta's 15-20% capex allocation to AMD, validating $15B+ 2025 AI sales forecast (Ranks 8, 26, 64, 83).\n   - Analyst upgrades post-earnings (e.g., Susquehanna to $300 PT, HSBC to $310) citing incomplete pricing of MI350 benchmarks (35x inference uplift) and hyperscaler order surges, sparking institutional buying (Ranks 22, 7, 16).\n\n6. KEY RISKS TO PREDICTION:\n   - Weak Q4 guidance below $9.3B consensus due to China export restrictions ($1.5B revenue hit from MI308/MI350 license denials) and HBM/CoWoS supply constraints, triggering sell-off (Ranks 4, 61, 13, 100).\n   - Nvidia's Blackwell Ultra benchmarks (45% higher throughput) and 85%+ HBM allocation eroding AMD's share, amplified by post-earnings profit-taking amid high valuation (41x forward P/E) (Ranks 46, 65, 131).\n\n7. PROBABILITY SCENARIOS:\n   - Bull Case (20%): $158.00 - Earnings beat with upbeat Q4 guide ($9.5B+ on MI350 ramp and OpenAI details), plus fresh analyst hikes to $300+ PTs, driving 9%+ upside on AI momentum validation and short covering.\n   - Base Case (60%): $150.75 - In-line Q3 beat ($8.8B revenue, $1.20 EPS) with conservative Q4 guide ($9.2B midpoint) offset by positive AI partnership commentary, leading to modest 2-4% gain on institutional accumulation despite China risks.\n   - Bear Case (20%): $138.00 - Q3 miss or soft guide ($8.6B revenue) from export/HBM delays, combined with Nvidia competitive leaks, causing 4-6% drop on margin fears (51% Q4 gross margin) and rotation out of semis.\n\n8. SPECIFIC REASONING:\nThe prediction of a modest upside on November 5, 2025, stems from a synthesis of high-impact insights indicating a likely Q3 earnings beat tempered by forward-looking risks, with net positive alpha from underpriced AI catalysts. Most material for this post-earnings timeframe are the earnings-related queries (Ranks 1, 4, 52, 87, 112, 200, 206, 241, 410, 455, 478, 496), which collectively point to consensus revenue of $8.75B and EPS $1.17, but with whispers (e.g., $1.22 EPS from buy-side notes) and data center beats ($4.18B+ from MI350 ramps) creating ~7-10% upside potential if realized\u2014markets typically react +5-8% to semi beats (historical AMD post-earnings moves average +6.2% on beats per TipRanks). Positive AI partnerships (Ranks 15, 56, 71, 77, 78, 83, 445, 469) like OpenAI's 6GW deal (tens of billions in revenue, partially priced in October's 23-34% surge but not fully digested per \"Partially\" pricing tags) and Oracle's 50k GPUs (Rank 8, confirmed Oct 14 with Nov 3 X post on availability) are underpriced for the next day, as institutional investors (e.g., via UBS/HSBC upgrades to $300-310 PTs, Ranks 22, 39) will re-rate on call details, while retail (X/Reddit sentiment spikes post-earnings, Rank 483) amplifies via FOMO buying. Supply constraints (Ranks 100, 131, 133, 290, 343, 449) and China risks (Ranks 13, 19, 101, 124, 158, 270, 486, 491) cap enthusiasm, with $1.5B hit already partially priced (stock dipped 3% pre-earnings on Nov 4), but not fully (e.g., Nov BIS tightenings unabsorbed). Nvidia competition (Ranks 46, 65, 84, 95, 357, 431, 482, 498) adds downside pressure but is offset by AMD's pricing edge (MI350 at $25k vs. B200 $35k, Rank 147). Overall, ~70% confidence reflects 60% base case probability of beat offsetting guidance softness; institutions (holding 80% float) will buy dips on AI validation, while retail chases momentum, leading to 2-4% open gap-up before intraday volatility. Not fully priced: Partnership revenue ramps (e.g., OpenAI's 2026 1GW) await quantification, per \"Partially\" tags across 70% of positive insights.",
+      "generation_time": 13.635088682174683
+    },
+    "next_week": {
+      "time_horizon": "next_week",
+      "timestamp": "2025-11-04T12:58:31.325847",
+      "current_price": 144.5,
+      "price_target": 152.5,
+      "direction": "Up +5% to +6%",
+      "confidence": "",
+      "price_range": {
+        "low": 148.0,
+        "high": 156.0
+      },
+      "catalysts": [
+        "Post-earnings beat on Q3 data center revenue (expected $4.18B, up 28% QoQ from AI GPU ramps like MI350), with management commentary on OpenAI's 6GW deal and Oracle's 50,000-unit MI450 deployment signaling multi-year AI revenue acceleration to $15B+ in 2025 (Ranks 5, 8, 16, 64, 83, partially priced at 50-70% per grok/gemini insights).",
+        "Analyst upgrades and price target hikes to $300+ (e.g., Susquehanna, HSBC, BofA from Ranks 22, 339), driven by channel checks showing MI350 order momentum and hyperscaler capex surges ($300B+ combined in 2025), triggering institutional buying post-earnings.",
+        "Social media and supply chain sentiment spikes on MI350 shipment surges (Panjiva/October data showing 300% MoM increase, Ranks 439, 387, 466), validating AI demand not fully reflected in pre-earnings $144.50 close, amplifying retail FOMO via X/Reddit discussions."
+      ],
+      "risks": [
+        "Weak Q4 guidance below $9B consensus (e.g., due to $1.5B China export hit from tightened BIS controls, Ranks 4, 13, 61, 124, 486), leading to a 5-10% sell-off if margins compress to 51% from HBM/CoWoS costs (Ranks 79, 203, 442).",
+        "Nvidia's Blackwell ramp accelerating (80%+ market share, Ranks 46, 65, 431), with early benchmarks showing 45% inference edge over MI300X, eroding AMD's 10-15% AI share gains if hyperscalers delay MI350 adoption (Ranks 84, 147, 357)."
+      ],
+      "scenarios": {
+        "bull": {
+          "probability": 20,
+          "price": 160.0,
+          "description": "Bull Case (20%): $160.00 - Q3 EPS beats whisper $1.22 (Rank 455) with Q4 guide >$9.35B (Rank 39), plus OpenAI/Oracle details confirming $5B+ 2026 AI revenue; institutional re-rating adds 10%+ upside as semis rally."
+        },
+        "base": {
+          "probability": 60,
+          "price": 152.5,
+          "description": "Base Case (60%): $152.50 - In-line Q3 results ($8.75B revenue, $1.17 EPS) with positive AI commentary offsetting China risks; 5% gain from partial digestion of partnerships (Ranks 15, 71, 445) and analyst hikes, stabilizing in $150s amid broader market rotation."
+        },
+        "bear": {
+          "probability": 20,
+          "price": 138.0,
+          "description": "Bear Case (20%): $138.00 - Q4 guide misses at <$9B due to export denials/supply delays (Ranks 14, 61, 491), triggering 5-8% drop on margin warnings (51% gross, Rank 79); retail panic sells on Nvidia competition fears."
+        }
+      },
+      "reasoning": "",
+      "raw_response": "1. PRICE TARGET: $152.50\n\n2. DIRECTION: Up +5% to +6%\n\n3. CONFIDENCE LEVEL: Medium 70%\n\n4. PRICE RANGE: $148.00 to $156.00\n\n5. TOP 3 CATALYSTS:\n   - Post-earnings beat on Q3 data center revenue (expected $4.18B, up 28% QoQ from AI GPU ramps like MI350), with management commentary on OpenAI's 6GW deal and Oracle's 50,000-unit MI450 deployment signaling multi-year AI revenue acceleration to $15B+ in 2025 (Ranks 5, 8, 16, 64, 83, partially priced at 50-70% per grok/gemini insights).\n   - Analyst upgrades and price target hikes to $300+ (e.g., Susquehanna, HSBC, BofA from Ranks 22, 339), driven by channel checks showing MI350 order momentum and hyperscaler capex surges ($300B+ combined in 2025), triggering institutional buying post-earnings.\n   - Social media and supply chain sentiment spikes on MI350 shipment surges (Panjiva/October data showing 300% MoM increase, Ranks 439, 387, 466), validating AI demand not fully reflected in pre-earnings $144.50 close, amplifying retail FOMO via X/Reddit discussions.\n\n6. KEY RISKS TO PREDICTION:\n   - Weak Q4 guidance below $9B consensus (e.g., due to $1.5B China export hit from tightened BIS controls, Ranks 4, 13, 61, 124, 486), leading to a 5-10% sell-off if margins compress to 51% from HBM/CoWoS costs (Ranks 79, 203, 442).\n   - Nvidia's Blackwell ramp accelerating (80%+ market share, Ranks 46, 65, 431), with early benchmarks showing 45% inference edge over MI300X, eroding AMD's 10-15% AI share gains if hyperscalers delay MI350 adoption (Ranks 84, 147, 357).\n\n7. PROBABILITY SCENARIOS:\n   - Bull Case (20%): $160.00 - Q3 EPS beats whisper $1.22 (Rank 455) with Q4 guide >$9.35B (Rank 39), plus OpenAI/Oracle details confirming $5B+ 2026 AI revenue; institutional re-rating adds 10%+ upside as semis rally.\n   - Base Case (60%): $152.50 - In-line Q3 results ($8.75B revenue, $1.17 EPS) with positive AI commentary offsetting China risks; 5% gain from partial digestion of partnerships (Ranks 15, 71, 445) and analyst hikes, stabilizing in $150s amid broader market rotation.\n   - Bear Case (20%): $138.00 - Q4 guide misses at <$9B due to export denials/supply delays (Ranks 14, 61, 491), triggering 5-8% drop on margin warnings (51% gross, Rank 79); retail panic sells on Nvidia competition fears.\n\n8. SPECIFIC REASONING:\nThe prediction is driven by post-earnings momentum from Q3 results (released Nov 4), where consensus ($8.75B revenue, $1.17 EPS, 54% margins) aligns with AMD's $8.7B guidance but whispers suggest $9B+ upside from data center beats (Ranks 34, 69, 87, 112, 329, 410, 455, 493; grok estimates 7-8% above consensus on MI350 ramps). Material insights for Nov 5-12 include AI partnerships (OpenAI 6GW, Oracle 50k GPUs; Ranks 5, 8, 15, 16, 71, 77, 83, 105, 135, 417, 445, 469) not fully priced (50-70% per providers), as October announcements drove 23-60% surges but long-term $10-15B revenue implications await earnings validation\u2014markets typically add 3-7% in semis post-beat on AI catalysts (e.g., NVDA +5% after Q3 2024). Supply chain positives like CoWoS/HBM allocations up (90k wafers, sold-out 2026; Ranks 109, 169, 334, 389, 420, 449, 490) counter risks, easing 10-15% shipment constraints and supporting Q4 guide >$9B (Ranks 18, 39, 354, 467). Not fully priced due to recency (Oct/Nov leaks) and focus on China hits ($1.5B, Ranks 4, 13, 101, 124, 158, 486, partially at 60%); institutional investors (e.g., hedge funds via whispers, Rank 478) will buy dips on AI alpha (70% confidence from 82% historical beat rate, Zacks), while retail amplifies via X/Reddit sentiment spikes (Ranks 483, 493). Expect 2-3% open gap-up Nov 5 on beat, consolidating mid-week on upgrades, with volatility from Nov 11 Analyst Day previews (Rank 23). Overall, AI tailwinds outweigh risks in this 1-week frame, targeting +5% from $144.50 amid semis sector rotation.",
+      "generation_time": 13.359381437301636
+    },
+    "next_month": {
+      "time_horizon": "next_month",
+      "timestamp": "2025-11-04T12:58:48.539022",
+      "current_price": 144.5,
+      "price_target": 158.75,
+      "direction": "Up +9% to +12%",
+      "confidence": "Post-earnings volatility averages \u00b17-10% for AMD (historical from TipRanks), but AI tailwinds (e.g., hyperscaler capex $300B+ in 2025, Ranks 5, 64, 105, 415) typically extend rallies 2-4 weeks, as seen in October's 50%+ YTD gain on similar news. China export risks (Ranks 13, 19, 101, 124, 158, 486) are 60-70% priced in ($1.5B hit already guided), limiting downside to 5-8% unless denials escalate (low probability per July easing). Nvidia competition (Ranks 46, 65, 84, 95, 357, 431, 482) erodes some share but boosts AMD via diversification (e.g., Meta/Microsoft orders, Ranks 26, 163), with MI350 benchmarks showing 1.5x efficiency vs. Blackwell (Ranks 73, 316, 440, 463). Institutional reaction (e.g., buy-side whispers at $1.22 EPS, Rank 455) will drive 60% of volume, focusing on guidance beats; retail (X/Reddit hype on Ranks 352, 405) adds momentum but fades risks. Overall, 70% confidence reflects balanced alpha (positive AI 80% of top ranks) vs. supply/China volatility, targeting mid-range of historical post-earnings moves adjusted for YTD rally fatigue.",
+      "price_range": {
+        "low": 152.0,
+        "high": 165.0
+      },
+      "catalysts": [
+        "Expanded OpenAI partnership details emerging from Q3 earnings call, including 6GW GPU deployment milestones and potential 10% equity stake, validating AMD's AI inference leadership and projecting $10B+ annual revenue by 2026 (Ranks 15, 71, 77, 356, 469).",
+        "Analyst upgrades and price target hikes to $300+ (e.g., Susquehanna, HSBC, BofA) post-earnings, driven by MI350 ramp and hyperscaler orders like Oracle's 50,000-unit commitment, signaling 20-25% AI market share capture (Ranks 22, 39, 339, 445).",
+        "Supply chain confirmations of MI350 shipment surges (e.g., Panjiva data, TSMC CoWoS allocation up to 90,000 wafers), easing HBM/CoWoS bottlenecks and boosting Q4 guidance above $9.3B whisper (Ranks 387, 420, 490, 497)."
+      ],
+      "risks": [
+        "Escalating U.S. export restrictions to China (e.g., BIS license denials for MI308/MI350), potentially confirming $1.5B+ revenue hit and leading to conservative Q4 guidance (Ranks 101, 124, 162, 270, 486, 491).",
+        "Persistent HBM/CoWoS supply constraints and Nvidia Blackwell ramp, causing margin compression (2-5% gross margin drop) or order pushouts from hyperscalers like Microsoft/Azure (Ranks 100, 125, 131, 132, 343, 479)."
+      ],
+      "scenarios": {
+        "bull": {
+          "probability": 20,
+          "price": 172.5,
+          "description": "Bull Case (20%): $172.50 - Strong Q4 guidance >$9.5B with confirmed OpenAI/MI350 revenue acceleration and positive China license updates, driving 20%+ rally on AI validation and analyst target convergence to $300."
+        },
+        "base": {
+          "probability": 60,
+          "price": 158.75,
+          "description": "Base Case (60%): $158.75 - In-line Q3 results ($8.8B revenue, $1.17 EPS) with upbeat AI commentary offsetting China risks, leading to modest 10% upside as partially priced partnerships digest and supply chain positives emerge."
+        },
+        "bear": {
+          "probability": 20,
+          "price": 132.0,
+          "description": "Bear Case (20%): $132.00 - Q4 guidance miss <$9B due to export denials and HBM delays, triggering 8-10% drop on margin warnings and Nvidia competition fears, retesting $130 support."
+        }
+      },
+      "reasoning": "The prediction of a +9-12% upside to $158.75 through December 5, 2025, is driven by the net positive alpha from high-impact, partially priced AI catalysts outweighing near-term risks, based on the 321 insights analyzed. Most material for this one-month timeframe are the post-Q3 earnings reactions (November 4 onward), where Q3 results are expected to show in-line or slight beats ($8.7-8.8B revenue, $1.17 EPS) per consensus (Ranks 87, 112, 200, 410, 455, 496), but forward guidance and commentary on AI partnerships will dominate. Key unpriced elements include the OpenAI 6GW deal expansions (Ranks 15, 71, 77, 356, 469), which project tens of billions in multi-year revenue starting 2026 but with initial 1GW MI450 validation in H2 2025\u2014market typically reacts +10-20% to such hyperscaler confirmations (e.g., 23-34% surge on October announcement), as institutional investors (e.g., hedge funds via whispers in Ranks 478, 493) re-rate long-term AI exposure not fully baked into the $144.50 base (current P/E ~40x forward, implying room for 45x on $15B+ 2025 AI revenue per HSBC, Rank 16). Oracle's 50,000-unit MI450 order (Ranks 8, 74, 143, 467) and MI350 shipment spikes (Ranks 387, 439, 460) via Panjiva/TSMC data further support Q4 upside >$9.3B whisper (Ranks 18, 39, 354), with CoWoS allocation hikes to 90,000 wafers (Ranks 109, 169, 334, 389, 420, 490) resolving bottlenecks\u2014 these supply chain alphas are ~70% unpriced, as retail sentiment on X/Reddit (Ranks 108, 380, 493) amplifies post-earnings, while institutions await Q4 details for position sizing.",
+      "raw_response": "1. PRICE TARGET: $158.75\n\n2. DIRECTION: Up +9% to +12%\n\n3. CONFIDENCE LEVEL: Medium 70%\n\n4. PRICE RANGE: $152.00 to $165.00\n\n5. TOP 3 CATALYSTS:\n   - Expanded OpenAI partnership details emerging from Q3 earnings call, including 6GW GPU deployment milestones and potential 10% equity stake, validating AMD's AI inference leadership and projecting $10B+ annual revenue by 2026 (Ranks 15, 71, 77, 356, 469).\n   - Analyst upgrades and price target hikes to $300+ (e.g., Susquehanna, HSBC, BofA) post-earnings, driven by MI350 ramp and hyperscaler orders like Oracle's 50,000-unit commitment, signaling 20-25% AI market share capture (Ranks 22, 39, 339, 445).\n   - Supply chain confirmations of MI350 shipment surges (e.g., Panjiva data, TSMC CoWoS allocation up to 90,000 wafers), easing HBM/CoWoS bottlenecks and boosting Q4 guidance above $9.3B whisper (Ranks 387, 420, 490, 497).\n\n6. KEY RISKS TO PREDICTION:\n   - Escalating U.S. export restrictions to China (e.g., BIS license denials for MI308/MI350), potentially confirming $1.5B+ revenue hit and leading to conservative Q4 guidance (Ranks 101, 124, 162, 270, 486, 491).\n   - Persistent HBM/CoWoS supply constraints and Nvidia Blackwell ramp, causing margin compression (2-5% gross margin drop) or order pushouts from hyperscalers like Microsoft/Azure (Ranks 100, 125, 131, 132, 343, 479).\n\n7. PROBABILITY SCENARIOS:\n   - Bull Case (20%): $172.50 - Strong Q4 guidance >$9.5B with confirmed OpenAI/MI350 revenue acceleration and positive China license updates, driving 20%+ rally on AI validation and analyst target convergence to $300.\n   - Base Case (60%): $158.75 - In-line Q3 results ($8.8B revenue, $1.17 EPS) with upbeat AI commentary offsetting China risks, leading to modest 10% upside as partially priced partnerships digest and supply chain positives emerge.\n   - Bear Case (20%): $132.00 - Q4 guidance miss <$9B due to export denials and HBM delays, triggering 8-10% drop on margin warnings and Nvidia competition fears, retesting $130 support.\n\n8. SPECIFIC REASONING:\nThe prediction of a +9-12% upside to $158.75 through December 5, 2025, is driven by the net positive alpha from high-impact, partially priced AI catalysts outweighing near-term risks, based on the 321 insights analyzed. Most material for this one-month timeframe are the post-Q3 earnings reactions (November 4 onward), where Q3 results are expected to show in-line or slight beats ($8.7-8.8B revenue, $1.17 EPS) per consensus (Ranks 87, 112, 200, 410, 455, 496), but forward guidance and commentary on AI partnerships will dominate. Key unpriced elements include the OpenAI 6GW deal expansions (Ranks 15, 71, 77, 356, 469), which project tens of billions in multi-year revenue starting 2026 but with initial 1GW MI450 validation in H2 2025\u2014market typically reacts +10-20% to such hyperscaler confirmations (e.g., 23-34% surge on October announcement), as institutional investors (e.g., hedge funds via whispers in Ranks 478, 493) re-rate long-term AI exposure not fully baked into the $144.50 base (current P/E ~40x forward, implying room for 45x on $15B+ 2025 AI revenue per HSBC, Rank 16). Oracle's 50,000-unit MI450 order (Ranks 8, 74, 143, 467) and MI350 shipment spikes (Ranks 387, 439, 460) via Panjiva/TSMC data further support Q4 upside >$9.3B whisper (Ranks 18, 39, 354), with CoWoS allocation hikes to 90,000 wafers (Ranks 109, 169, 334, 389, 420, 490) resolving bottlenecks\u2014 these supply chain alphas are ~70% unpriced, as retail sentiment on X/Reddit (Ranks 108, 380, 493) amplifies post-earnings, while institutions await Q4 details for position sizing.\n\nMarket dynamics favor upside: Post-earnings volatility averages \u00b17-10% for AMD (historical from TipRanks), but AI tailwinds (e.g., hyperscaler capex $300B+ in 2025, Ranks 5, 64, 105, 415) typically extend rallies 2-4 weeks, as seen in October's 50%+ YTD gain on similar news. China export risks (Ranks 13, 19, 101, 124, 158, 486) are 60-70% priced in ($1.5B hit already guided), limiting downside to 5-8% unless denials escalate (low probability per July easing). Nvidia competition (Ranks 46, 65, 84, 95, 357, 431, 482) erodes some share but boosts AMD via diversification (e.g., Meta/Microsoft orders, Ranks 26, 163), with MI350 benchmarks showing 1.5x efficiency vs. Blackwell (Ranks 73, 316, 440, 463). Institutional reaction (e.g., buy-side whispers at $1.22 EPS, Rank 455) will drive 60% of volume, focusing on guidance beats; retail (X/Reddit hype on Ranks 352, 405) adds momentum but fades risks. Overall, 70% confidence reflects balanced alpha (positive AI 80% of top ranks) vs. supply/China volatility, targeting mid-range of historical post-earnings moves adjusted for YTD rally fatigue.",
+      "generation_time": 15.212360858917236
+    }
+  }
+}

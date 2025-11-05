@@ -1,0 +1,253 @@
+TOP QUERIES BY GEMINI FLASH LITE
+====================================================================================================
+
+1. AMD's Q3 data center revenue exceeds $5 billion, crushing estimates
+   Score: 93.1 (mean: 90.2, best: 90.5)
+   Rank: 5 (best), 17 (avg)
+   M=9.0 D=8.0 W=9.0 MO=10.0 S=9.0 N=8.3
+
+2. AMD's AI revenue forecast for 2026 exceeds $20 billion in earnings call
+   Score: 93.0 (mean: 90.2, best: 90.5)
+   Rank: 16 (best), 21 (avg)
+   M=9.0 D=8.0 W=9.0 MO=10.0 S=9.0 N=8.3
+
+3. AMD Q4 revenue guidance significantly above $9 billion street high estimates
+   Score: 92.6 (mean: 89.5, best: 98.5)
+   Rank: 1 (best), 139 (avg)
+   M=9.0 D=8.3 W=9.0 MO=9.7 S=8.7 N=8.0
+
+4. AMD misses on both revenue and EPS, provides weak Q4 guidance
+   Score: 92.5 (mean: 89.3, best: 91.5)
+   Rank: 1 (best), 14 (avg)
+   M=9.0 D=8.3 W=8.7 MO=10.0 S=8.7 N=7.7
+
+5. AMD beats EPS and revenue consensus, provides in-line Q4 guidance
+   Score: 92.4 (mean: 89.2, best: 91.5)
+   Rank: 2 (best), 17 (avg)
+   M=9.0 D=8.3 W=8.7 MO=10.0 S=8.7 N=7.3
+
+6. Top-tier analyst with high accuracy rating upgrades AMD to $300+ pre-earnings
+   Score: 92.4 (mean: 89.2, best: 96.5)
+   Rank: 4 (best), 65 (avg)
+   M=9.0 D=8.0 W=8.7 MO=9.7 S=9.0 N=9.0
+
+7. Microsoft Azure confirms large-scale deployment of AMD MI300X for new AI services
+   Score: 91.7 (mean: 88.3, best: 90.5)
+   Rank: 17 (best), 36 (avg)
+   M=9.0 D=8.0 W=8.7 MO=9.7 S=8.7 N=8.0
+
+8. Microsoft announces deeper AI hardware/software co-development partnership with AMD
+   Score: 90.7 (mean: 87.0, best: 90.5)
+   Rank: 23 (best), 78 (avg)
+   M=8.7 D=7.7 W=8.7 MO=9.7 S=8.7 N=8.3
+
+9. AMD November 11 investor event preview leaks hinting at >$5B 2026 AI revenue
+   Score: 90.2 (mean: 86.2, best: 90.5)
+   Rank: 10 (best), 51 (avg)
+   M=8.7 D=7.7 W=8.3 MO=9.3 S=9.0 N=8.7
+
+10. AMD Q4 guidance below consensus estimates
+   Score: 90.1 (mean: 85.8, best: 97.0)
+   Rank: 3 (best), 186 (avg)
+   M=8.7 D=7.7 W=8.7 MO=9.3 S=8.3 N=8.0
+
+11. AMD MI300X wins at a second major cloud provider leaked on tech forums
+   Score: 89.9 (mean: 85.8, best: 89.5)
+   Rank: 23 (best), 65 (avg)
+   M=8.7 D=7.7 W=8.3 MO=9.3 S=9.0 N=8.0
+
+12. AMD secures major design win with a leading automotive company for next-gen autonomous driving
+   Score: 89.4 (mean: 85.3, best: 89.5)
+   Rank: 31 (best), 170 (avg)
+   M=8.7 D=7.7 W=8.3 MO=9.3 S=8.7 N=7.7
+
+13. Major AI research lab (e.g., Anthropic, Mistral) announces partnership with AMD
+   Score: 89.4 (mean: 85.3, best: 89.0)
+   Rank: 40 (best), 147 (avg)
+   M=8.7 D=7.7 W=8.3 MO=9.3 S=8.3 N=8.3
+
+14. AMD revenue miss leaks in employee whistleblower sites November 2025
+   Score: 89.0 (mean: 84.5, best: 90.5)
+   Rank: 14 (best), 84 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=9.0 N=8.3
+
+15. AMD mid-quarter guide cut leak Q4 2025
+   Score: 89.0 (mean: 84.5, best: 90.5)
+   Rank: 15 (best), 86 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=9.0 N=8.3
+
+16. AMD Q3 2025 earnings miss due to supply chain leaks on dark web
+   Score: 88.9 (mean: 84.3, best: 90.5)
+   Rank: 13 (best), 96 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.7
+
+17. Whistleblower leaks on AMD's underestimated Q4 guidance from internal memos
+   Score: 88.9 (mean: 84.3, best: 90.5)
+   Rank: 17 (best), 102 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.7
+
+18. AMD Q4 guidance miss rumors financial blogs October 2025
+   Score: 88.9 (mean: 84.2, best: 90.5)
+   Rank: 5 (best), 115 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.3
+
+19. Conference call leaks indicating AMD guidance cuts
+   Score: 88.8 (mean: 84.2, best: 90.5)
+   Rank: 9 (best), 100 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.3
+
+20. Leaked emails on AMD's downward Q4 revisions
+   Score: 88.8 (mean: 84.2, best: 90.5)
+   Rank: 10 (best), 84 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.3
+
+21. Unexpected AMD AI GPU order surges from hyperscalers in supply chain reports November 2025
+   Score: 88.8 (mean: 84.2, best: 90.5)
+   Rank: 11 (best), 99 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.3
+
+22. Major cloud provider quietly deploys AMD Instinct GPUs October 2025 The Next Platform
+   Score: 88.8 (mean: 84.2, best: 89.5)
+   Rank: 11 (best), 85 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=9.0 N=7.7
+
+23. major cloud provider quietly shifts capex from Nvidia to AMD Q3 2025
+   Score: 88.8 (mean: 84.2, best: 90.5)
+   Rank: 16 (best), 108 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.3
+
+24. AMD Q3 2025 earnings miss due to supply chain disruptions in underground reports
+   Score: 88.7 (mean: 84.2, best: 90.5)
+   Rank: 18 (best), 128 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=9.0 N=7.7
+
+25. Microsoft Azure AMD chip deployment acceleration internal memo leak
+   Score: 88.7 (mean: 84.2, best: 90.5)
+   Rank: 19 (best), 133 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=9.0 N=7.7
+
+26. major cloud provider unexpectedly announces large AMD MI350 deployment
+   Score: 88.7 (mean: 84.2, best: 90.5)
+   Rank: 24 (best), 122 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.3
+
+27. AMD raises full-year 2026 revenue guidance significantly above consensus
+   Score: 88.6 (mean: 84.0, best: 90.5)
+   Rank: 20 (best), 172 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=8.0
+
+28. whisper numbers AMD Q4 guide midpoint above $9.3B and GM >=55%
+   Score: 88.6 (mean: 84.0, best: 90.0)
+   Rank: 23 (best), 161 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=9.0 N=7.3
+
+29. Microsoft Ignite 2025 Azure ND MI series with AMD MI300 announcement
+   Score: 88.6 (mean: 84.2, best: 89.5)
+   Rank: 39 (best), 98 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=9.0 N=7.7
+
+30. Major cloud provider AMD Instinct accelerator adoption announcements October 2025
+   Score: 88.5 (mean: 83.8, best: 89.5)
+   Rank: 18 (best), 135 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=7.7
+
+31. AMD Q3 2025 earnings miss due to China export restrictions impacting stock drop
+   Score: 88.5 (mean: 83.7, best: 90.5)
+   Rank: 11 (best), 189 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.3 N=8.0
+
+32. AMD Q3 2025 earnings consensus revenue $8.75B gross margin 54%
+   Score: 88.4 (mean: 83.8, best: 90.0)
+   Rank: 25 (best), 184 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=7.7
+
+33. Nvidia Blackwell B200 early performance leaks exceed expectations
+   Score: 88.3 (mean: 83.8, best: 89.5)
+   Rank: 36 (best), 186 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.7 N=7.7
+
+34. AMD's AI revenue growth fails to meet elevated market expectations
+   Score: 88.3 (mean: 83.3, best: 90.5)
+   Rank: 7 (best), 284 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.3 S=8.3 N=7.3
+
+35. AMD AI revenue forecast for 2026 raised to over $10 billion
+   Score: 88.2 (mean: 83.3, best: 90.5)
+   Rank: 12 (best), 125 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.3 S=8.7 N=8.0
+
+36. Leaked AMD internal memo shows data center revenue forecast for 2026 revised sharply higher
+   Score: 88.1 (mean: 83.2, best: 89.5)
+   Rank: 14 (best), 217 (avg)
+   M=8.3 D=7.0 W=8.0 MO=9.7 S=8.7 N=7.3
+
+37. AMD Q4 2025 revenue guidance significantly below analyst expectations
+   Score: 88.1 (mean: 83.0, best: 97.0)
+   Rank: 2 (best), 454 (avg)
+   M=8.3 D=7.3 W=8.3 MO=9.0 S=8.3 N=8.0
+
+38. Competitor launches superior AI GPU November 2025 pre-earnings
+   Score: 88.1 (mean: 83.2, best: 89.5)
+   Rank: 15 (best), 230 (avg)
+   M=8.3 D=7.0 W=8.0 MO=9.7 S=8.7 N=7.3
+
+39. AMD Financial Analyst Day November 11 2025 leaked agenda AI revenue focus
+   Score: 87.7 (mean: 83.0, best: 85.5)
+   Rank: 41 (best), 67 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.0 S=9.0 N=8.0
+
+40. Press leaks OpenAI AMD strategic milestone delivery timeline
+   Score: 87.6 (mean: 82.8, best: 86.5)
+   Rank: 38 (best), 128 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.0 S=9.0 N=7.7
+
+41. Microsoft Azure AMD MI300X instance availability expanding rapidly October 2025
+   Score: 87.4 (mean: 82.5, best: 89.5)
+   Rank: 34 (best), 217 (avg)
+   M=8.3 D=7.0 W=8.0 MO=9.3 S=8.7 N=7.3
+
+42. Lisa Su comments on AI chip demand and 2026 outlook AMD Q3 earnings call
+   Score: 87.4 (mean: 82.0, best: 90.0)
+   Rank: 3 (best), 392 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.0 S=8.3 N=7.3
+
+43. Major hyperscaler announces shift to in-house custom AI silicon, reducing AMD orders
+   Score: 87.3 (mean: 82.5, best: 85.5)
+   Rank: 49 (best), 155 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.0 S=8.7 N=7.7
+
+44. Nvidia price cuts H200 Blackwell pressuring AMD deals Oct 2025
+   Score: 87.1 (mean: 82.0, best: 89.5)
+   Rank: 29 (best), 184 (avg)
+   M=8.3 D=7.0 W=8.0 MO=9.3 S=8.3 N=7.0
+
+45. AMD gross margin guidance below 53% due to console and client mix
+   Score: 87.1 (mean: 82.2, best: 86.0)
+   Rank: 45 (best), 202 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.0 S=8.3 N=7.7
+
+46. AMD Investor Day Nov 11 2025 agenda leak indicating stronger AI roadmap site:twitter.com ROCm MI roadmap
+   Score: 87.1 (mean: 82.0, best: 89.5)
+   Rank: 33 (best), 227 (avg)
+   M=8.0 D=7.0 W=8.0 MO=9.3 S=9.0 N=7.7
+
+47. Gross margin miss due to MI300 discounting and mix pressure
+   Score: 87.1 (mean: 82.2, best: 86.0)
+   Rank: 46 (best), 208 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.0 S=8.3 N=7.7
+
+48. AMD Q3 earnings call reveals unexpected weakness in AI chip orders
+   Score: 87.1 (mean: 82.2, best: 85.5)
+   Rank: 47 (best), 191 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.0 S=8.3 N=7.7
+
+49. Nvidia H200/Blackwell price cuts affecting AMD MI300 competitiveness Nov 2025
+   Score: 87.0 (mean: 81.8, best: 89.5)
+   Rank: 25 (best), 249 (avg)
+   M=8.3 D=7.0 W=8.0 MO=9.3 S=8.0 N=7.3
+
+50. AMD Q4 revenue guidance miss versus consensus $8.7B
+   Score: 86.9 (mean: 82.0, best: 85.5)
+   Rank: 50 (best), 218 (avg)
+   M=8.3 D=7.3 W=8.0 MO=9.0 S=8.3 N=7.3
+

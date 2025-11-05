@@ -1,0 +1,305 @@
+TOP QUERIES BY MULTI-PROVIDER RANKING
+====================================================================================================
+Providers: gemini
+====================================================================================================
+
+1. AMD gross margin surprise above 55% due to high MI300X ASPs
+   Score: 82.4 (mean: 87.0, best: 87.0)
+   Rank: 1 (best), 1 (avg)
+   Providers: gemini: 87.0
+   M=9.0 D=8.0 W=9.0 M=9.0 S=8.0 N=8.0
+
+2. SK hynix prioritizes HBM3E supply to Nvidia over AMD November 2025
+   Score: 78.8 (mean: 81.5, best: 81.5)
+   Rank: 2 (best), 2 (avg)
+   Providers: gemini: 81.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=9.0 N=8.0
+
+3. SK hynix HBM3E shipments earmarked for AMD MI300 supplier memo November 2025
+   Score: 78.5 (mean: 81.5, best: 81.5)
+   Rank: 3 (best), 3 (avg)
+   Providers: gemini: 81.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=9.0 N=8.0
+
+4. Taiwan customs export data indicating weak AMD accelerator shipments in Oct 2025
+   Score: 78.2 (mean: 81.5, best: 81.5)
+   Rank: 4 (best), 4 (avg)
+   Providers: gemini: 81.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=9.0 N=8.0
+
+5. SK hynix HBM3E shipments to AMD volume estimate November 2025 Panjiva customs
+   Score: 77.9 (mean: 81.5, best: 81.5)
+   Rank: 5 (best), 5 (avg)
+   Providers: gemini: 81.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=9.0 N=8.0
+
+6. OpenAI AMD strategic partnership procurement signals October 2025
+   Score: 77.0 (mean: 80.5, best: 80.5)
+   Rank: 6 (best), 6 (avg)
+   Providers: gemini: 80.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=8.0 N=8.0
+
+7. Amkor packaging line incident impacting AMD November 2025
+   Score: 76.1 (mean: 79.5, best: 79.5)
+   Rank: 7 (best), 7 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+8. supply chain alerts counterfeit HBM concerns delaying AMD shipments
+   Score: 75.8 (mean: 79.5, best: 79.5)
+   Rank: 8 (best), 8 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+9. AMD secures multi-year HBM supply agreement with Micron
+   Score: 75.5 (mean: 79.5, best: 79.5)
+   Rank: 9 (best), 9 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+10. "pushout" accelerator orders AMD 2025
+   Score: 75.2 (mean: 79.5, best: 79.5)
+   Rank: 10 (best), 10 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+11. Amkor packaging delays for AMD accelerator substrates Q4 2025
+   Score: 74.9 (mean: 79.5, best: 79.5)
+   Rank: 11 (best), 11 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+12. "order cancellation" AMD Instinct 2025
+   Score: 74.6 (mean: 79.5, best: 79.5)
+   Rank: 12 (best), 12 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+13. supply chain leaks on AMD production shortfalls
+   Score: 74.3 (mean: 79.5, best: 79.5)
+   Rank: 13 (best), 13 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+14. Digitimes report AMD order cuts Q4 2025
+   Score: 74.0 (mean: 79.5, best: 79.5)
+   Rank: 14 (best), 14 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+15. Amazon AWS or Microsoft Azure signal reduced spending on AMD chips
+   Score: 73.7 (mean: 79.5, best: 79.5)
+   Rank: 15 (best), 15 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+16. US government expands export restrictions on AI chips to new countries impacting AMD
+   Score: 73.4 (mean: 79.5, best: 79.5)
+   Rank: 16 (best), 16 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+17. MLPerf training results poor for AMD MI300 November 2025
+   Score: 73.1 (mean: 79.5, best: 79.5)
+   Rank: 17 (best), 17 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+18. Whistleblower leaks on AMD's underestimated Q4 guidance from internal memos
+   Score: 72.8 (mean: 79.5, best: 79.5)
+   Rank: 18 (best), 18 (avg)
+   Providers: gemini: 79.5
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=8.0
+
+19. AMD datacenter revenue beats whisper number Q3 2025
+   Score: 72.2 (mean: 79.0, best: 79.0)
+   Rank: 19 (best), 19 (avg)
+   Providers: gemini: 79.0
+   M=8.0 D=7.0 W=8.0 M=9.0 S=7.0 N=7.0
+
+20. Sudden spike in AMD put option volume and open interest late October 2025
+   Score: 71.9 (mean: 79.0, best: 79.0)
+   Rank: 20 (best), 20 (avg)
+   Providers: gemini: 79.0
+   M=8.0 D=9.0 W=8.0 M=7.0 S=8.0 N=7.0
+
+21. AMD beats revenue consensus but guides Q4 in-line
+   Score: 71.0 (mean: 78.0, best: 78.0)
+   Rank: 21 (best), 21 (avg)
+   Providers: gemini: 78.0
+   M=8.0 D=9.0 W=8.0 M=7.0 S=7.0 N=7.0
+
+22. China social media leaks of MI308 evaluation systems October 2025 site:weibo.com AMD 加速卡
+   Score: 67.7 (mean: 73.0, best: 73.0)
+   Rank: 22 (best), 22 (avg)
+   Providers: gemini: 73.0
+   M=7.0 D=6.0 W=7.0 M=8.0 S=9.0 N=8.0
+
+23. TSMC reports of CoWoS capacity constraints impacting MI300X shipments
+   Score: 67.1 (mean: 72.5, best: 72.5)
+   Rank: 23 (best), 23 (avg)
+   Providers: gemini: 72.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=9.0 N=7.0
+
+24. TSMC CoWoS monthly output dedicated to AMD accelerators Nov 2025
+   Score: 66.8 (mean: 72.5, best: 72.5)
+   Rank: 24 (best), 24 (avg)
+   Providers: gemini: 72.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=9.0 N=7.0
+
+25. MLPerf Training results Nov 2025 MI300X vs H100 site:mlcommons.org
+   Score: 66.5 (mean: 72.5, best: 72.5)
+   Rank: 25 (best), 25 (avg)
+   Providers: gemini: 72.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=9.0 N=7.0
+
+26. EPYC share gains vs Xeon in cloud instance launches November 2025 tracker
+   Score: 65.6 (mean: 71.5, best: 71.5)
+   Rank: 26 (best), 26 (avg)
+   Providers: gemini: 71.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=8.0 N=7.0
+
+27. Dell and HPE channel checks on AMD EPYC Turin + MI300 attach rates Nov 2025
+   Score: 65.3 (mean: 71.5, best: 71.5)
+   Rank: 27 (best), 27 (avg)
+   Providers: gemini: 71.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=8.0 N=7.0
+
+28. satellite imagery of AMD facility expansions indicating strong Q3 2025 guidance
+   Score: 65.0 (mean: 71.5, best: 71.5)
+   Rank: 28 (best), 28 (avg)
+   Providers: gemini: 71.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=8.0 N=7.0
+
+29. site:mercuryresearch.com EPYC server CPU share Q3 2025 preliminary
+   Score: 64.7 (mean: 71.5, best: 71.5)
+   Rank: 29 (best), 29 (avg)
+   Providers: gemini: 71.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=8.0 N=7.0
+
+30. Major cloud provider quietly deploys AMD Instinct GPUs October 2025 The Next Platform
+   Score: 64.4 (mean: 71.5, best: 71.5)
+   Rank: 30 (best), 30 (avg)
+   Providers: gemini: 71.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=8.0 N=7.0
+
+31. BIS advisory opinions or approvals related to AMD MI308 or MI350 China variants
+   Score: 64.1 (mean: 71.5, best: 71.5)
+   Rank: 31 (best), 31 (avg)
+   Providers: gemini: 71.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=8.0 N=7.0
+
+32. China export rules carve-outs enabling AMD AI accelerator shipments Nov 2025
+   Score: 63.8 (mean: 71.5, best: 71.5)
+   Rank: 32 (best), 32 (avg)
+   Providers: gemini: 71.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=8.0 N=7.0
+
+33. HBM pricing spike squeezing AMD gross margin Nov 2025 TrendForce
+   Score: 63.5 (mean: 71.5, best: 71.5)
+   Rank: 33 (best), 33 (avg)
+   Providers: gemini: 71.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=8.0 N=7.0
+
+34. Negative whistleblower leaks on AMD internal targets
+   Score: 62.6 (mean: 70.5, best: 70.5)
+   Rank: 34 (best), 34 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+35. AMD data center sales growth deceleration concerns boutique research report
+   Score: 62.3 (mean: 70.5, best: 70.5)
+   Rank: 35 (best), 35 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+36. US relaxes export controls on certain AI chips to key allied nations, benefiting AMD
+   Score: 62.0 (mean: 70.5, best: 70.5)
+   Rank: 36 (best), 36 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+37. Bearish hyperscaler spend trajectory in leaked budgets
+   Score: 61.7 (mean: 70.5, best: 70.5)
+   Rank: 37 (best), 37 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+38. AMD data center GPU market share gains Q3 2025 semiconductor analyst blogs
+   Score: 61.4 (mean: 70.5, best: 70.5)
+   Rank: 38 (best), 38 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+39. OpenAI partnership details reveal smaller scope than anticipated
+   Score: 61.1 (mean: 70.5, best: 70.5)
+   Rank: 39 (best), 39 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+40. regulatory inquiry into AMD's sales practices in a foreign market
+   Score: 60.8 (mean: 70.5, best: 70.5)
+   Rank: 40 (best), 40 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+41. AMD environmental compliance issues in sustainability audits
+   Score: 60.5 (mean: 70.5, best: 70.5)
+   Rank: 41 (best), 41 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+42. AMD market share erosion in edge computing per IoT surveys
+   Score: 60.2 (mean: 70.5, best: 70.5)
+   Rank: 42 (best), 42 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+43. Nvidia Blackwell B100 supply chain check order volume
+   Score: 59.9 (mean: 70.5, best: 70.5)
+   Rank: 43 (best), 43 (avg)
+   Providers: gemini: 70.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=7.0
+
+44. Dealer gamma positioning amplifying downside AMD post-earnings
+   Score: 59.3 (mean: 70.0, best: 70.0)
+   Rank: 44 (best), 44 (avg)
+   Providers: gemini: 70.0
+   M=7.0 D=8.0 W=7.0 M=6.0 S=8.0 N=6.0
+
+45. AMD options market unusual activity large call buyer late October 2025
+   Score: 59.0 (mean: 70.0, best: 70.0)
+   Rank: 45 (best), 45 (avg)
+   Providers: gemini: 70.0
+   M=7.0 D=8.0 W=7.0 M=6.0 S=8.0 N=6.0
+
+46. AMD inventory levels analysis Q2 vs Q3 2025 expectations
+   Score: 58.7 (mean: 70.0, best: 70.0)
+   Rank: 46 (best), 46 (avg)
+   Providers: gemini: 70.0
+   M=7.0 D=6.0 W=7.0 M=8.0 S=7.0 N=6.0
+
+47. Unusual call option flow AMD Nov 4 2025 earnings
+   Score: 58.4 (mean: 70.0, best: 70.0)
+   Rank: 47 (best), 47 (avg)
+   Providers: gemini: 70.0
+   M=7.0 D=8.0 W=7.0 M=6.0 S=8.0 N=6.0
+
+48. China develops domestic GPU that reduces reliance on AMD and Nvidia
+   Score: 57.8 (mean: 69.5, best: 69.5)
+   Rank: 48 (best), 48 (avg)
+   Providers: gemini: 69.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=6.0 N=7.0
+
+49. HBM price spike 2025 data center
+   Score: 57.5 (mean: 69.5, best: 69.5)
+   Rank: 49 (best), 49 (avg)
+   Providers: gemini: 69.5
+   M=7.0 D=6.0 W=7.0 M=8.0 S=6.0 N=7.0
+
+50. analyst downgrades AMD stock ahead of earnings Q3 2025
+   Score: 56.9 (mean: 69.0, best: 69.0)
+   Rank: 50 (best), 50 (avg)
+   Providers: gemini: 69.0
+   M=7.0 D=8.0 W=7.0 M=6.0 S=7.0 N=6.0
+

@@ -1,0 +1,501 @@
+Combined_Rank,Query,Avg_Rank_All,Min_Rank_All,Combined_Score,Grok_Final_Rank,Grok_Avg_Rank,Grok_Min_Rank,Gemini_Final_Rank,Gemini_Avg_Rank,Gemini_Min_Rank,Materiality,Next_Day,Next_Week,Next_Month,Specificity,Non_Obvious
+1,"AMD beats EPS and revenue consensus, provides in-line Q4 guidance",22.3,2,88.3,4,28.0,7,5,16.7,2,9.2,8.7,8.8,9.5,8.0,6.7
+2,"AMD's Q3 data center revenue exceeds $5 billion, crushing estimates",26.7,2,88.5,2,36.0,2,1,17.3,5,9.2,8.5,9.2,9.7,7.8,7.3
+3,"Microsoft Azure confirms large-scale deployment of AMD MI300X for new AI services",37.7,1,88.1,1,39.0,1,7,36.3,17,9.0,8.2,8.7,9.3,9.2,8.2
+4,"AMD misses on both revenue and EPS, provides weak Q4 guidance",88.3,1,87.1,24,162.7,30,4,14.0,1,9.0,8.3,8.7,9.5,8.2,6.7
+5,"major cloud provider quietly shifts capex from Nvidia to AMD Q3 2025",91.5,9,86.7,5,74.7,9,23,108.3,16,8.7,7.8,8.7,9.2,8.3,8.2
+6,"Microsoft Ignite 2025 Azure ND MI series with AMD MI300 announcement",106.5,3,86.3,18,115.0,3,29,98.0,39,8.5,7.8,8.5,9.0,8.8,7.7
+7,"AMD MI350 performance benchmarks leaked ahead of earnings",107.3,4,86.1,9,96.7,4,68,118.0,67,8.3,7.8,8.3,9.0,8.3,8.2
+8,"major cloud provider unexpectedly announces large AMD MI350 deployment",111.7,8,86.4,7,101.3,8,26,122.0,24,8.7,7.8,8.7,9.2,8.2,8.3
+9,"Leaked emails on AMD's downward Q4 revisions",113.7,10,85.9,76,143.7,38,20,83.7,10,8.3,7.5,8.3,9.2,8.3,8.5
+10,"AMD Q3 2025 earnings miss due to supply chain leaks on dark web",116.8,13,85.9,63,137.7,50,16,96.0,13,8.5,7.5,8.3,9.0,8.5,8.5
+11,"AMD Q3 2025 earnings miss due to supply chain disruptions in underground reports",128.3,18,85.9,15,128.7,28,24,128.0,18,8.7,8.0,8.5,9.0,8.3,7.7
+12,"Conference call leaks indicating AMD guidance cuts",131.8,6,85.9,19,164.0,6,19,99.7,9,8.5,8.0,8.3,9.2,8.3,8.0
+13,"AMD Q4 guidance miss rumors financial blogs October 2025",148.8,5,85.4,102,182.3,89,18,115.3,5,8.5,7.8,8.3,8.8,8.2,8.0
+14,"AMD mid-quarter guide cut leak Q4 2025",149.3,15,85.5,46,212.3,34,15,86.3,15,8.5,7.7,8.5,9.0,8.3,8.2
+15,"Major AI research lab (e.g., Anthropic, Mistral) announces partnership with AMD",155.0,6,85.6,30,162.7,6,13,147.3,40,8.7,7.7,8.5,9.2,8.0,8.5
+16,"Unexpected AMD AI GPU order surges from hyperscalers in supply chain reports November 2025",155.7,11,85.4,33,212.3,14,21,99.0,11,8.5,7.5,8.5,9.2,8.3,8.2
+17,"leaked AMD internal memo on exceeding AI revenue targets Q3 2025",156.0,18,85.0,16,99.0,18,146,213.0,112,8.3,7.5,8.2,8.8,8.2,8.3
+18,"whisper numbers AMD Q4 guide midpoint above $9.3B and GM >=55%",158.2,23,85.3,38,155.0,26,28,161.3,23,8.7,8.0,8.5,8.8,8.2,7.0
+19,"AMD Q3 2025 earnings miss due to China export restrictions impacting stock drop",158.3,11,85.5,11,127.3,14,31,189.3,11,8.7,7.8,8.7,9.0,8.0,7.8
+20,"AMD's guidance for Q4 implies significant sequential decline",163.7,53,84.7,39,162.0,53,88,165.3,101,8.5,7.5,8.5,9.0,7.8,6.8
+21,"AMD raises full-year 2026 revenue guidance significantly above consensus",163.8,20,85.1,64,155.3,52,27,172.3,20,8.5,7.5,8.5,9.2,8.0,7.8
+22,"Top-tier analyst with high accuracy rating upgrades AMD to $300+ pre-earnings",169.7,4,85.6,57,274.0,10,6,65.3,4,8.7,8.2,8.5,9.2,8.7,8.3
+23,"AMD November 11 investor event preview leaks hinting at >$5B 2026 AI revenue",170.0,10,85.0,154,288.7,30,9,51.3,10,8.3,7.5,8.2,9.0,8.8,8.3
+24,"AMD's AI revenue forecast for 2026 exceeds $20 billion in earnings call",171.5,1,85.7,42,321.7,1,2,21.3,16,8.8,8.0,8.8,9.7,7.8,7.7
+25,"AMD revenue miss leaks in employee whistleblower sites November 2025",173.7,14,85.0,74,263.3,19,14,84.0,14,8.3,7.7,8.3,8.8,8.8,8.5
+26,"AMD MI300X hyperscaler purchase orders leaked November 2025 Meta Microsoft AWS",175.8,10,84.8,8,67.0,10,141,284.7,90,8.2,7.3,8.2,9.0,8.8,8.3
+27,"AMD Q3 earnings call reveals unexpected weakness in AI chip orders",176.8,3,85.1,12,162.3,3,48,191.3,47,8.7,7.8,8.3,8.8,8.3,7.5
+28,"AMD MI300X wins at a second major cloud provider leaked on tech forums",178.8,23,84.8,208,292.7,191,11,65.0,23,8.5,7.5,8.3,9.0,8.5,8.0
+29,"AMD MI400 performance benchmarks leak vs Blackwell B200",183.2,24,84.2,83,190.7,24,117,175.7,78,8.2,7.3,8.0,8.7,8.5,7.8
+30,"AMD Q4 revenue guidance miss versus consensus $8.7B",185.0,8,84.8,26,152.3,8,50,217.7,50,8.7,7.8,8.3,9.0,7.7,6.8
+31,"Negative AMD guide revisions in leaked analyst notes Q3 2025",185.5,24,84.5,35,111.3,24,149,259.7,200,8.3,7.5,8.3,9.0,7.8,7.7
+32,"Meta or Microsoft prioritizing NVIDIA H200 B100 over AMD MI350 in procurement",188.8,48,84.1,107,248.0,48,71,129.7,73,8.2,7.2,8.2,9.0,8.5,7.7
+33,"leaked internal memos on AMD beating internal Q3 forecasts",189.2,1,84.7,6,103.0,1,142,275.3,79,8.3,7.7,8.2,9.0,8.2,8.2
+34,"AMD Q3 2025 data center revenue mix above 50 percent preview signals",194.0,57,84.2,31,115.0,57,136,273.0,186,8.5,7.5,8.5,9.0,7.7,7.0
+35,"Leaked AMD internal memo shows data center revenue forecast for 2026 revised sharply higher",196.5,2,84.7,37,176.3,2,36,216.7,14,8.3,7.5,8.2,9.3,8.5,8.2
+36,"AMD Q4 guidance below consensus from insider sources",198.7,53,84.0,72,223.7,53,107,173.7,141,8.3,7.5,8.2,9.0,8.0,7.3
+37,"Insider leaks on AMD revenue shortfalls November 2025",200.2,31,84.1,23,108.0,31,216,292.3,218,8.3,7.5,8.2,9.0,7.7,7.8
+38,"whistleblower leaks on AMD production delays pre-Q3 earnings",203.7,108,83.4,139,202.7,108,132,204.7,113,8.2,7.3,8.0,8.7,8.3,7.8
+39,"AMD Q4 revenue guidance significantly above $9 billion street high estimates",216.5,1,84.9,60,294.3,28,3,138.7,1,8.8,8.2,8.8,9.3,7.8,7.5
+40,"Analyst downgrades AMD on MI308 charge margin impact November 2025",217.3,39,83.9,49,212.7,39,85,222.0,87,8.3,7.3,8.3,9.0,8.3,7.2
+41,"AMD meets revenue guidance but Q4 forecast is slightly below consensus",220.2,68,83.6,54,171.3,68,140,269.0,188,8.5,7.7,8.3,9.0,7.7,6.2
+42,"Microsoft Azure AMD chip deployment acceleration internal memo leak",225.3,19,83.8,259,317.7,174,25,133.0,19,8.2,7.2,8.2,9.0,8.8,8.0
+43,"whistleblower emails leaked on AMD exceeding AI revenue targets",228.2,25,83.7,85,323.7,25,62,132.7,58,8.2,7.3,8.2,8.8,8.3,8.5
+44,"Major cloud provider delays AMD MI350 deployment citing software issues",232.0,112,82.9,163,230.0,153,130,234.0,112,8.2,7.2,8.0,8.8,8.2,7.8
+45,"Major hyperscaler announces shift to in-house custom AI silicon, reducing AMD orders",236.8,13,83.7,99,318.7,13,43,155.0,49,8.3,7.5,8.2,8.8,8.3,7.7
+46,"Nvidia Blackwell Ultra performance benchmarks exceed expectations creating competitive gap",238.0,29,83.4,130,316.7,29,77,159.3,98,8.2,7.3,8.2,8.8,8.2,7.7
+47,"AMD MI300X record orders purchase order leak vendor portal November 2025",240.5,13,83.5,14,106.7,13,249,374.3,151,8.2,7.0,8.0,9.0,8.5,8.3
+48,"AMD earnings miss on AI revenue due to export restrictions leaks",249.7,32,83.2,177,284.3,159,73,215.0,32,8.2,7.0,8.0,9.2,8.2,7.7
+49,"BIS enforcement action AMD MI308 MI350 China violation November 2025",251.2,17,83.3,52,203.3,17,247,299.0,286,8.3,7.2,8.2,8.8,8.0,7.7
+50,"Leaked internal memos on AMD's Q4 guidance optimism shared on anonymous boards",257.8,23,83.0,13,69.0,23,288,446.7,88,8.0,7.3,8.0,8.8,8.2,8.0
+51,"NVIDIA competitive win announcements displacing AMD in cloud late 2025",261.3,118,82.4,175,335.3,118,101,187.3,139,8.2,7.2,8.2,8.8,8.2,7.7
+52,"AMD earnings miss on revenue or EPS Q3 2025",262.0,5,83.7,3,22.7,5,69,501.3,8,8.8,8.0,8.5,8.8,7.5,7.2
+53,"Reports of MI350 shipment delays due to HBM shortages at SK hynix or Micron",264.8,114,82.4,182,317.0,114,97,212.7,125,8.2,7.2,8.2,8.8,8.2,7.5
+54,"Leaked AMD internal memos on accelerator ramp success November 2025",265.7,21,82.7,56,119.0,21,258,412.3,46,7.8,7.2,7.8,8.7,8.3,8.3
+55,"AMD Q4 guidance below consensus estimates",265.7,3,83.7,126,345.3,56,10,186.0,3,8.7,7.7,8.7,9.0,7.7,7.2
+56,"Hidden AMD-OpenAI collaboration details in AI conference transcripts before earnings",266.2,106,82.2,229,257.7,163,153,274.7,106,7.8,6.8,7.8,9.0,8.8,7.8
+57,"CSP defer or cancel AMD GPU orders shift to 2026",266.5,9,83.1,184,307.3,132,53,225.7,9,8.2,7.2,8.2,8.8,8.3,7.7
+58,"OpenAI deployment of AMD accelerators MI350 capacity ramp leak",267.5,70,82.4,225,337.7,134,118,197.3,70,7.8,7.0,7.8,8.8,8.7,8.3
+59,"leaked memo from major cloud provider delaying AMD chip deployment",269.0,54,82.5,326,344.7,258,108,193.3,54,8.0,7.2,7.8,8.7,8.3,7.8
+60,"Commercial Times rumor AMD MI350 large Microsoft order October 2025",269.2,43,82.6,176,199.0,195,143,339.3,43,8.0,7.0,8.0,8.7,8.7,8.0
+61,"AMD Q4 2025 revenue guidance significantly below analyst expectations",269.7,2,83.6,25,85.0,55,37,454.3,2,8.7,7.7,8.7,9.0,7.8,7.3
+62,"Digitimes report on AMD MI350 volume ramp and strong hyperscaler orders",270.5,36,82.7,34,78.3,36,236,462.7,64,8.2,7.2,7.8,8.8,8.3,7.7
+63,"MI350 tape-out slip to 2026 credible industry sources Nov 2025",270.7,26,82.8,193,281.0,171,87,260.3,26,8.2,7.2,7.8,8.8,8.5,7.8
+64,"Surge in AMD data center orders from cloud providers in supply chain reports",272.3,143,82.0,156,241.3,143,184,303.3,190,8.2,7.0,8.0,9.0,8.2,7.3
+65,"Nvidia Blackwell B200 early performance leaks exceed expectations",272.7,23,83.2,114,359.3,23,33,186.0,36,8.3,7.5,8.3,9.0,8.3,7.5
+66,"Major data center customer developing in-house custom silicon, reducing AMD orders",275.2,81,82.4,189,329.3,117,82,221.0,81,8.2,7.2,8.2,8.8,8.2,7.3
+67,"AMD EPYC Turin CPU benchmarks leak showing significant performance lead over Intel",275.2,43,82.6,221,424.7,43,83,125.7,120,8.0,7.2,8.0,8.7,8.7,7.7
+68,"Leaked AMD supply chain reports from Asian manufacturers indicating massive AI chip orders post-earnings",276.7,11,82.9,32,113.0,11,215,440.3,142,8.0,7.3,8.0,8.8,8.5,8.3
+69,"AMD datacenter revenue beats whisper number Q3 2025",277.2,95,82.3,151,315.7,95,98,238.7,116,8.3,7.5,8.2,8.7,7.8,7.2
+70,"AMD gross margin surprise above 55% due to high MI300X ASPs",280.8,40,82.7,71,298.7,40,192,263.0,235,8.3,7.3,8.2,9.0,7.8,7.0
+71,"OpenAI AMD partnership expansion details leaked November 2025",281.7,54,82.4,113,152.7,84,124,410.7,54,8.2,7.2,8.0,8.7,8.5,7.7
+72,"Microsoft announces deeper AI hardware/software co-development partnership with AMD",286.7,7,83.4,89,495.7,7,8,77.7,23,8.5,7.8,8.5,9.2,8.2,8.0
+73,"ServeTheHome early benchmarks comparing AMD MI350 vs NVIDIA H200 performance",290.2,16,82.6,43,107.7,16,210,472.7,131,8.0,7.2,8.0,8.8,8.7,7.8
+74,"AMD AI chip order increases from hyperscalers leaked in procurement databases October 2025",290.2,12,82.7,10,43.0,12,244,537.3,85,8.2,7.3,7.8,8.8,8.5,8.2
+75,"AMD's AI revenue guidance for 2026 at Nov 11 event fails to impress investors",295.5,35,82.4,128,323.0,35,120,268.0,134,8.2,7.2,8.2,8.8,8.2,7.3
+76,"Nvidia launches next-gen part undercutting AMD November 2025",296.3,8,82.6,138,315.0,45,52,277.7,8,8.2,7.3,8.2,9.0,8.0,7.3
+77,"OpenAI using AMD MI300 confirmation October 2025",299.0,21,82.6,121,179.7,116,63,418.3,21,8.2,7.3,8.2,9.0,8.3,7.7
+78,"Major cloud provider AMD Instinct accelerator adoption announcements October 2025",300.8,18,82.5,238,466.7,41,30,135.0,18,8.2,7.3,8.2,8.8,8.3,7.7
+79,"AMD gross margin guidance for Q4 2025 shows significant contraction",304.0,62,82.1,135,346.7,62,119,261.3,133,8.3,7.3,8.3,8.8,7.5,6.7
+80,"Competitor launches superior AI GPU November 2025 pre-earnings",304.8,15,82.7,116,380.0,18,38,229.7,15,8.3,7.3,8.2,9.2,8.2,7.5
+81,"MI350 launch pushed to 2026 reports",306.0,27,82.2,294,379.0,285,89,233.0,27,8.2,7.0,8.0,9.0,7.8,7.7
+82,"AMD loses server market share to Intel for the first time in 3 years",312.2,74,81.7,376,363.3,344,137,261.0,74,8.0,7.0,8.0,8.8,8.2,7.3
+83,"Hyperscaler capex increase earmarked for AMD GPUs November 2025",312.3,5,82.4,55,229.7,20,99,395.0,5,8.3,7.3,8.2,8.7,8.2,7.3
+84,"Nvidia Blackwell B100 production ramp impact on AMD MI350 orders",313.2,19,82.3,190,296.7,155,56,329.7,19,8.2,7.2,8.2,9.0,8.2,7.5
+85,"Nvidia announces unexpected price cuts on H200 accelerators",314.2,159,81.1,317,397.3,301,175,231.0,159,8.2,7.2,7.8,8.8,7.8,7.3
+86,"MLPerf Training results Nov 2025 MI300X vs H100 site:mlcommons.org",314.7,14,81.9,153,358.7,14,188,270.7,132,7.8,7.0,7.8,8.7,8.7,7.8
+87,"AMD Q3 2025 earnings consensus revenue $8.75B gross margin 54%",315.0,25,82.2,377,446.0,208,32,184.0,25,8.3,7.3,8.2,9.0,8.2,6.2
+88,"AMD's AI revenue forecast for 2026 is revised downwards",317.3,48,82.0,108,261.3,61,104,373.3,48,8.3,7.3,8.2,8.7,8.0,7.0
+89,"site:seekingalpha.com analyst downgrades previews weak Q4 guide AMD",328.3,90,81.2,423,416.0,322,151,240.7,90,7.8,7.2,8.0,8.5,8.5,7.2
+90,"buy-side channel checks report AMD hyperscaler backlog exceeding guide",331.8,74,81.4,75,153.3,74,369,510.3,270,8.0,7.0,7.8,8.8,8.5,7.5
+91,"site:azure.microsoft.com AMD MI300 MI35x GA announcement November 2025",332.8,14,82.0,144,295.7,78,61,370.0,14,8.2,7.3,8.2,8.7,8.7,7.3
+92,"Insider leaks on AMD data center order cancellations in underground channels 2025",336.5,114,80.9,351,352.3,262,183,320.7,114,7.8,6.8,7.8,8.7,8.5,8.0
+93,"AMD AI revenue guidance for 2026 is flat or down from 2025 projections",340.8,54,81.4,44,163.7,54,391,518.0,244,8.3,7.2,8.0,8.8,7.3,6.7
+94,"Llama 3 inference benchmarks on ROCm show cost/perf lead vs CUDA community reports",343.8,148,80.7,303,458.0,148,111,229.7,160,8.0,7.0,8.0,8.7,8.3,7.8
+95,"Nvidia announces unexpected AI chip with superior performance-per-watt",344.2,21,81.5,157,480.7,21,133,207.7,114,8.2,7.0,8.0,8.7,8.0,7.7
+96,"Micron HBM supply contract AMD 2025 2026 expanded",346.0,119,80.6,137,191.7,119,567,500.3,432,7.8,6.8,7.8,8.8,8.3,7.0
+97,"Canceled AMD MI300 hyperscaler orders rumor trackers",350.3,107,80.9,180,301.7,137,177,399.0,107,8.0,7.0,8.0,8.8,8.0,7.7
+98,"AMD AI revenue forecast for 2026 raised to over $10 billion",353.7,12,81.8,173,582.0,52,35,125.3,12,8.3,7.3,8.2,9.0,8.0,7.5
+99,"SK hynix HBM3E shipments to AMD ramp evidence September–October 2025 site:thelec.kr OR site:businesskorea.co.kr",358.0,20,81.2,45,87.3,20,516,628.7,383,7.8,6.8,7.8,8.8,9.0,7.3
+100,"SK hynix prioritizes HBM3E supply to Nvidia over AMD November 2025",361.2,292,79.5,306,364.3,311,276,358.0,292,8.2,7.2,8.0,8.7,7.8,7.2
+101,"China retaliatory measures targeting US semis November 2025 AMD",361.2,12,81.3,68,308.3,12,226,414.0,43,8.2,7.0,8.0,8.7,7.7,7.7
+102,"Microsoft ROCm production readiness PyTorch AMD MI300 MI350 blog",363.5,105,80.4,381,472.7,127,152,254.3,105,7.7,6.7,7.7,8.8,8.8,7.5
+103,"AMD's largest data center customer pauses orders amid economic uncertainty",365.5,306,79.4,311,371.7,306,275,359.3,314,8.2,7.0,8.0,8.8,7.8,7.2
+104,"Nvidia announces aggressive price cuts for H200 and B100 GPUs",365.8,33,81.2,178,551.3,47,65,180.3,33,8.3,7.3,8.0,9.0,7.2,7.2
+105,"Hyperscaler capex increases in AI infrastructure October 2025 unannounced contracts with AMD",366.8,9,81.5,125,384.0,30,66,349.7,9,8.2,7.2,8.2,8.8,8.2,7.7
+106,"MLPerf Training results late 2025 MI300X vs H100 performance",369.2,33,81.0,97,210.0,33,208,528.3,79,8.0,7.2,8.0,8.7,8.2,7.3
+107,"HPC benchmarks show AMD MI300X underperforming competitors late 2025",369.3,31,81.0,96,216.7,31,295,522.0,170,8.0,7.0,7.8,8.7,8.3,7.5
+108,"Underground forums discussing AMD insider leaks on record data center orders post-earnings 2025",372.5,84,80.6,327,557.3,84,78,187.7,98,7.8,7.3,7.8,8.5,8.3,8.3
+109,"TSMC CoWoS output allocation to AMD Q4 2025 increase",372.5,99,80.2,109,127.3,99,689,617.7,463,7.8,6.7,7.7,8.7,8.3,7.5
+110,"AMD MI350 benchmark results from independent testers show underperformance",373.5,175,79.8,181,222.0,175,363,525.0,178,7.8,7.0,7.8,8.3,8.5,7.7
+111,"AMD gross margins expand beyond 55% due to high MI300X average selling price",374.0,132,80.3,446,500.7,380,134,247.3,132,8.2,7.2,8.0,8.8,7.5,7.0
+112,"AMD beats whisper number earnings Q3 2025",379.7,38,80.9,59,173.3,38,287,586.0,198,8.2,7.3,8.2,8.8,7.7,6.7
+113,"site:digitimes.com TSMC CoWoS capacity increases benefiting AMD MI35x 2025",381.2,102,80.2,95,109.7,102,464,652.7,256,7.8,6.8,7.8,8.7,8.8,7.0
+114,"Major hyperscaler develops in-house AI chip, reducing reliance on AMD",381.7,175,79.8,340,377.3,280,219,386.0,175,8.0,7.0,7.8,8.8,8.0,7.2
+115,"AMD gross margin guidance below 53% due to console and client mix",382.7,45,80.8,601,563.3,422,45,202.0,45,8.3,7.3,8.0,8.5,7.8,6.8
+116,"Leaked AMD board meeting notes on exceeding internal Q3 targets",384.2,69,80.3,334,539.3,87,123,229.0,69,7.8,6.8,7.7,8.7,8.2,8.2
+117,"MLPerf results underperform MI300 vs H200 Nov 2025",384.3,42,80.8,240,557.3,42,79,211.3,74,8.0,7.2,8.0,8.7,8.3,7.5
+118,"Short seller report alleging overhyped AMD AI claims November 2025",384.8,231,79.5,445,464.3,327,159,305.3,231,8.0,7.2,8.0,8.8,7.7,7.7
+119,"China extends ban on AMD chips in government and state-owned enterprises",388.3,44,80.4,191,477.0,69,228,299.7,44,8.0,6.8,7.7,8.7,7.7,7.8
+120,"leaked email from major cloud provider shows preference for Nvidia B100 over MI350",393.2,46,80.5,212,488.3,46,173,298.0,168,8.0,7.0,7.8,8.7,8.3,7.5
+121,"AI startup procurement posts choosing AMD MI350 over Nvidia for 2025H2",393.2,123,79.9,444,563.0,177,96,223.3,123,7.8,6.8,7.8,8.8,8.2,7.8
+122,"TSMC CoWoS bottlenecks prioritizing NVIDIA over AMD Oct 2025 site:digitimes.com",407.2,83,79.7,79,92.3,83,861,722.0,604,7.7,6.7,7.7,8.5,8.7,7.7
+123,"AMD AI revenue meets $4B annual run-rate expectation",408.7,74,80.2,263,664.3,74,80,153.0,102,8.2,7.2,8.0,8.7,8.0,7.2
+124,"U.S. expands China AI chip export curbs November 2025 AMD impact",410.2,46,80.1,100,278.0,63,285,542.3,46,8.0,7.0,7.8,8.5,8.0,7.7
+125,"TSMC CoWoS capacity constraints impacting AMD data center GPU shipments October 2025",411.2,66,80.0,51,98.7,66,395,723.7,76,7.8,6.8,7.8,8.5,8.7,7.7
+126,"HBM shortage 2025 delays AMD accelerators",411.3,42,80.1,426,498.7,351,156,324.0,42,8.0,7.0,8.0,8.7,7.7,7.2
+127,"Hyperscaler delays/cancellations of AMD MI deployments October 2025 site:theinformation.com AMD",411.5,10,80.5,28,112.0,10,584,711.0,429,8.2,7.0,7.7,8.7,8.3,7.5
+128,"South Korean hyperscaler signs multi-billion dollar AMD Instinct deal",412.7,11,80.8,119,569.7,11,116,255.7,177,8.2,7.3,8.2,8.8,7.8,8.0
+129,"Reports of Nvidia H200 supply constraints forcing customers to AMD MI300X",414.2,204,79.0,461,569.3,285,209,259.0,204,8.0,6.8,7.8,8.7,7.7,7.7
+130,"AMD gross margin uplift from accelerator mix Q3 2025 evidence",414.3,230,78.9,609,572.0,452,186,256.7,230,8.2,7.2,7.8,8.5,8.0,6.5
+131,"site:trendforce.com HBM3E shortages prioritizing Nvidia over AMD",417.0,48,80.0,136,175.7,128,272,658.3,48,7.8,6.8,7.8,8.8,8.5,7.2
+132,"TSMC CoWoS bottleneck delays AMD shipments November 2025",418.2,65,79.8,50,101.0,65,555,735.3,251,8.0,6.8,7.8,8.5,8.2,7.3
+133,"Micron and SK hynix HBM allocation primarily favoring NVIDIA limiting AMD supply",422.0,54,79.8,418,423.0,364,238,421.0,54,8.0,7.0,7.7,8.5,8.0,7.2
+134,"TSMC CoWoS bottleneck worsening allocation cut for AMD Nov 2025",422.0,30,80.2,48,90.0,63,293,754.0,30,8.0,6.8,7.8,8.7,8.7,7.5
+135,"Large cloud purchase orders AMD accelerators leaked 2025",423.5,17,80.1,210,255.0,193,197,592.0,17,8.0,6.8,7.8,8.7,8.3,7.5
+136,"AMD MI350 tape-out and early sample shipments credible leak Nov 2025",425.8,22,79.8,91,219.7,22,678,632.0,416,7.7,6.8,7.7,8.5,8.2,8.0
+137,"Hyperscaler RFP awards to AMD accelerators 2025 site:govwin.com site:tenders.gov",426.8,113,79.2,228,316.0,113,410,537.7,224,7.7,6.7,7.7,8.5,8.8,7.3
+138,"Export bans tightening on AMD sales to China missed by analysts 2025",427.8,28,80.0,312,369.0,320,170,486.7,28,8.0,6.8,7.8,8.8,8.0,7.7
+139,"Lisa Su comments on AI chip demand and 2026 outlook AMD Q3 earnings call",428.8,3,80.6,167,465.3,43,42,392.3,3,8.3,7.3,8.2,8.8,8.0,6.8
+140,"Major cloud provider quietly deploys AMD Instinct GPUs October 2025 The Next Platform",429.0,11,80.3,433,773.0,99,22,85.0,11,8.0,7.0,8.0,8.8,8.3,7.8
+141,"China policy tightening on AI accelerator imports Oct 2025 impacting AMD site:scmp.com",430.5,98,79.2,308,491.3,166,263,369.7,98,7.8,6.7,7.7,8.7,8.0,7.3
+142,"BIS denial of AMD MI308 export license to China reported Oct–Nov 2025 site:bis.doc.gov license denial",432.5,5,80.1,73,237.0,5,307,628.0,139,8.0,6.8,7.8,8.7,8.5,7.5
+143,"MI300X cloud orders surge October 2025 Supermicro Wiwynn AMD",433.7,104,79.4,279,390.3,173,196,477.0,104,7.8,6.8,7.8,8.7,8.3,7.8
+144,"HBM3E shortage reports affecting AMD allocations Q4 2025 site:sedaily.com",435.5,88,79.5,197,414.0,88,274,457.0,212,8.0,7.0,7.8,8.5,8.3,7.3
+145,"Leaked conference call scripts hinting at positive AMD guidance",436.5,2,80.2,70,349.0,2,207,524.0,101,8.0,7.2,8.0,8.7,8.2,8.2
+146,"Nvidia Blackwell refresh announcement outperforms AMD November 2025",436.8,38,80.0,371,411.3,326,92,462.3,38,8.2,7.2,8.2,8.8,7.7,7.2
+147,"Nvidia pricing offensive undercutting AMD MI350 Q4 2025 deal sheets",437.3,53,79.6,521,679.0,337,114,195.7,53,8.0,6.8,7.7,8.7,8.3,7.3
+148,"Nvidia price cuts H200 Blackwell pressuring AMD deals Oct 2025",439.7,29,80.0,476,695.7,296,44,183.7,29,8.2,7.0,8.0,8.8,8.0,7.2
+149,"Major cloud pushouts or cancellations of AMD MI300 orders leaked Nov 2025",445.7,32,79.8,41,174.7,32,341,716.7,171,8.0,7.3,8.0,8.7,8.0,7.3
+150,"Rumor AMD non-GAAP gross margin below 52% Q3 2025",447.7,12,80.2,118,323.7,58,72,571.7,12,8.3,7.5,8.3,8.8,7.5,6.7
+151,"Yield issues on HBM 12-Hi stacks for AMD packages Oct 2025 site:businesskorea.co.kr yield",448.3,91,79.2,120,176.7,91,544,720.0,358,7.8,6.8,7.7,8.5,8.8,7.5
+152,"AMD earnings call commentary signals HBM supply constraints lasting well into 2026",449.5,29,79.9,77,286.0,31,163,613.0,29,8.3,7.0,8.0,8.8,7.8,6.8
+153,"Leaked benchmarks showing AMD underperforming Nvidia pre-earnings",450.5,151,78.7,290,478.7,151,432,422.3,384,7.7,7.0,7.8,8.5,8.3,7.5
+154,"Broker channel checks indicating weak Q4 guide for AMD Oct 2025 site:tradingfloorinsider.com AMD guide",452.2,64,79.3,222,386.0,93,181,518.3,64,7.8,6.8,7.8,8.5,8.8,7.5
+155,"Gross margin pressure AMD MI300 price concessions noted by partners",458.5,71,79.2,886,768.7,632,70,148.3,71,8.0,7.0,8.0,8.3,8.2,7.2
+156,"Negative hyperscaler capex cuts impacting AMD orders in reports",459.0,84,79.0,536,572.3,366,178,345.7,84,7.8,6.8,7.8,8.7,8.0,7.0
+157,"MLPerf Training 2025 submissions featuring AMD Instinct MI350 results and rankings",460.2,18,79.5,200,546.7,18,160,373.7,73,7.8,7.0,7.8,8.5,8.5,7.7
+158,"China export restrictions expanded to MI300 variants November 2025",461.3,13,79.7,47,225.3,13,267,697.3,66,8.0,7.0,8.0,8.7,8.2,7.7
+159,"Hyperscaler order cancellations or deferrals for AMD accelerators",462.2,57,79.0,621,660.0,405,154,264.3,57,7.8,6.8,7.7,8.7,8.0,7.3
+160,"Intel Granite Rapids benchmarks leaking with superior performance-per-watt",463.2,92,78.9,382,625.3,177,185,301.0,92,7.8,6.8,7.8,8.5,8.2,7.5
+161,"Whistleblower leaks on AMD's underestimated Q4 guidance from internal memos",468.0,17,79.7,439,834.3,112,17,101.7,17,8.0,7.2,8.0,8.7,8.3,8.2
+162,"China license denials specific to AMD accelerators 2025 site:moea.gov.tw site:bis.doc.gov",470.8,101,78.5,93,137.7,101,716,804.0,312,7.7,6.5,7.5,8.5,8.7,7.5
+163,"Meta procurement MI300 RFP award notice document",471.8,129,78.2,132,158.3,129,832,785.3,492,7.7,6.5,7.5,8.5,8.3,7.7
+164,"analysts downgrade AMD stock due to rising competitive pressure",472.0,173,78.3,771,731.3,565,128,212.7,173,8.0,7.2,8.0,8.5,7.7,7.0
+165,"Press leaks OpenAI AMD strategic milestone delivery timeline",472.2,38,79.3,518,816.0,183,40,128.3,38,8.0,7.0,7.8,8.5,8.7,7.7
+166,"MLPerf Training 2025 entries showing AMD MI300X top results",472.5,157,78.1,574,589.3,290,217,355.7,157,7.7,6.7,7.7,8.3,8.8,7.3
+167,"HBM3E shortages prioritization Nvidia over AMD October 2025 reports",473.7,56,78.8,148,265.3,90,365,682.0,56,7.8,6.7,7.7,8.5,8.2,7.5
+168,"Gross margin miss due to MI300 discounting and mix pressure",475.3,46,79.5,223,743.0,58,47,207.7,46,8.3,7.3,8.0,8.8,8.0,6.8
+169,"TSMC CoWoS capacity allocation increase for AMD MI350 Q4 2025 supply chain note",475.7,44,78.9,88,141.3,81,377,810.0,44,7.7,6.7,7.7,8.7,8.8,7.5
+170,"site:servethehome.com hyperscaler delays AMD MI deployments to 2026",476.5,122,78.4,304,372.3,198,280,580.7,122,7.8,6.7,7.7,8.7,8.3,7.2
+171,"HBM3e memory supply constraints affecting MI350 production",477.8,76,78.9,249,455.7,131,180,500.0,76,8.0,7.0,8.0,8.7,7.8,6.8
+172,"site:skhynix.com HBM capacity tightness affecting AMD supply",478.7,49,78.9,241,371.0,106,246,586.3,49,7.8,6.7,7.7,8.5,8.7,7.3
+173,"Azure ND MI300 waitlist 'sold out' November 2025",479.0,93,78.4,201,333.3,93,546,624.7,284,7.7,6.8,7.5,8.5,8.3,7.2
+174,"Meta AI procurement AMD MI300 volume leak 2025",479.2,47,78.8,81,136.0,47,597,822.3,316,7.8,6.7,7.7,8.7,8.2,7.5
+175,"OpenAI procurement preference Nvidia vs AMD leaked email 2025",479.3,49,78.8,232,432.0,49,260,526.7,119,7.8,6.7,7.7,8.5,8.3,7.8
+176,"AMD partner webinars teasing larger MI deployments week of Nov 4 2025 site:zoom.us AMD MI300X",481.2,75,78.4,336,526.3,75,409,436.0,298,7.5,6.5,7.5,8.5,9.0,7.5
+177,"ROCm regression reports blocking enterprise workloads Oct 2025 site:github.com issues ROCm crash",481.5,114,78.2,753,648.0,471,199,315.0,114,7.7,6.7,7.7,8.2,8.8,7.5
+178,"Digitimes AMD MI350 HBM3E secured allocation SK hynix Samsung Q4 2025",482.3,48,78.8,141,265.3,73,316,699.3,48,7.8,6.7,7.7,8.7,8.5,7.2
+179,"HBM3E shortages persist impacting AMD shipments Oct 2025 site:thelec.kr HBM shortage",484.3,57,78.8,98,141.7,83,367,827.0,57,7.8,6.7,7.7,8.5,8.7,7.7
+180,"Weibo leaks AMD MI350 delay into 2026",484.8,92,78.4,146,257.3,92,472,712.3,164,7.8,6.8,7.5,8.5,8.3,7.3
+181,"site:digitimes.com TSMC CoWoS capacity allocation AMD 2H25",488.7,38,78.8,29,86.7,38,1106,890.7,824,7.8,6.8,7.8,8.5,8.5,7.0
+182,"SK hynix prioritizes Nvidia HBM3E shipments over AMD report",488.8,55,78.6,171,231.0,163,364,746.7,55,7.8,6.7,7.7,8.5,8.2,7.7
+183,"Sudden increase in AMD data center component orders from Supermicro, Wiwynn Q3 2025",489.3,181,77.8,361,539.3,181,303,439.3,209,7.8,6.7,7.7,8.7,8.3,7.0
+184,"AMD secures multi-year HBM supply agreement with Micron",491.5,256,77.5,641,658.0,462,211,325.0,256,8.0,7.0,7.8,8.7,8.0,6.8
+185,"TSMC CoWoS packaging bottlenecks affecting AMD allocations November 2025",491.5,49,78.6,67,243.3,49,860,739.7,603,7.8,6.8,7.8,8.3,8.0,7.3
+186,"Large hyperscaler capex reallocation away from AMD Q4 2025 site:seekingalpha.com transcript capex AMD",491.8,108,78.0,133,209.0,108,894,774.7,543,7.7,6.5,7.3,8.5,8.8,6.8
+187,"CoreWeave AMD Instinct MI350 cluster procurement document 2025",491.8,167,78.0,174,237.7,167,519,746.0,323,7.8,6.7,7.7,8.7,8.3,7.8
+188,"AMD MI300X order push-outs or delays from a major hyperscaler customer",492.8,95,78.3,545,483.7,415,251,502.0,95,7.8,6.7,7.7,8.7,8.0,7.3
+189,"NVIDIA channel signals strong demand overshadowing AMD ahead of print",493.0,16,79.1,603,697.3,411,55,288.7,16,8.0,7.0,8.0,8.8,8.0,7.0
+190,"Microsoft Azure and Google Cloud capex spending shift towards custom silicon away from AMD",493.5,176,77.7,438,596.0,271,297,391.0,176,7.8,6.7,7.7,8.5,8.2,7.3
+191,"AMD MI450 GPU shipment volumes to OpenAI leaked in supply chain forums October 2025",494.8,36,78.7,325,534.7,183,193,455.0,36,7.8,6.7,7.5,8.5,8.8,7.8
+192,"Negative whistleblower leaks on AMD internal targets",496.8,118,78.0,996,814.0,600,93,179.7,118,7.7,6.7,7.7,8.3,8.5,8.3
+193,"US government expands export restrictions on AI chips to new countries impacting AMD",497.2,64,78.4,86,273.3,64,644,721.0,360,8.0,7.0,7.8,8.3,7.5,7.2
+194,"AMD Investor Day Nov 11 2025 agenda leak indicating stronger AI roadmap site:twitter.com ROCm MI roadmap",497.8,33,78.7,1018,768.3,650,46,227.3,33,7.7,6.7,7.7,8.5,9.2,7.7
+195,"Leaked AMD Zen 6 performance benchmarks vs Intel Arrow Lake",498.5,123,78.0,1003,851.0,621,84,146.0,123,7.7,6.8,7.7,8.5,8.5,7.7
+196,"MI350 energy efficiency metrics vs Nvidia H200 independent review",500.0,88,78.4,499,768.3,156,86,231.7,88,7.8,6.8,7.8,8.7,8.2,7.3
+197,"AMD vs Nvidia performance benchmarks MI350 vs H200 user reviews",501.7,165,77.9,629,696.0,326,122,307.3,165,7.8,6.8,7.8,8.7,8.2,7.3
+198,"Meta procurement RFPs referencing AMD Instinct MI350 or EPYC Turin in 2025",503.2,86,77.9,254,518.7,86,673,487.7,438,7.5,6.5,7.5,8.3,8.7,7.7
+199,"Digitimes report AMD order cuts Q4 2025",504.0,52,78.3,235,395.7,89,298,612.3,52,7.7,6.7,7.7,8.3,8.8,7.3
+200,"Earnings whisper number AMD Nov 4 2025 vs consensus",504.7,24,78.9,310,688.3,94,64,321.0,24,8.2,7.3,7.8,8.5,8.2,6.7
+201,"Analyst downgrades AMD ahead of Q3 2025 earnings",506.7,175,77.8,791,743.0,584,131,270.3,175,8.0,7.2,8.0,8.5,7.7,7.0
+202,"SK hynix HBM3E supply disruption affecting AMD Q4 2025",509.7,52,78.3,267,426.3,152,250,593.0,52,8.0,6.8,7.7,8.5,8.0,7.0
+203,"HBM price spikes squeezing AMD gross margins Nov–Dec 2025",511.3,155,77.7,350,420.3,286,314,602.3,155,8.0,6.8,7.8,8.7,7.5,7.0
+204,"Unexpected AMD AI accelerator shipment surges in Q4 2025 from logistics tracking data",511.5,149,77.6,152,203.3,149,803,819.7,561,7.7,6.7,7.7,8.7,8.0,7.5
+205,"TSMC COWOS capacity allocation for AMD vs Nvidia October 2025 site:moneydj.com OR site:ctee.com.tw",512.8,22,78.7,17,71.0,22,664,954.7,406,8.0,6.8,7.8,8.7,8.7,7.0
+206,"AMD misses whisper number for revenue or EPS Q3 2025",517.2,207,77.3,333,393.0,311,379,641.3,207,7.8,6.8,7.8,8.8,7.7,6.8
+207,"analyst downgrades AMD stock ahead of earnings Q3 2025",519.8,183,77.3,785,742.7,580,218,297.0,183,7.8,7.2,8.0,8.3,7.7,6.7
+208,"Panjiva bill of lading AMD accelerator shipments to hyperscalers Sep Oct 2025",520.0,69,77.8,105,162.7,69,941,877.3,547,7.5,6.5,7.5,8.3,9.0,7.2
+209,"Azure ND MI300X general availability date capacity signals Nov 2025",520.3,4,78.6,541,707.7,222,59,333.0,4,7.8,6.8,7.8,8.5,8.7,7.3
+210,"AMD MI350 ramp commentary Lisa Su conference call Q3 2025",522.0,207,76.9,243,320.7,207,782,723.3,482,7.7,6.7,7.7,8.3,8.2,6.8
+211,"Broker downgrades and target cuts ahead of AMD earnings Nov 2025",523.5,138,77.7,723,817.7,412,106,229.3,138,7.8,7.0,7.8,8.5,8.2,7.3
+212,"AMD MI350 AI accelerator pre-order surges mentioned in supplier earnings calls Q3 2025",525.7,152,77.4,443,706.0,152,230,345.3,219,7.7,6.7,7.7,8.8,8.2,7.5
+213,"TSMC CoWoS capacity share split AMD vs Nvidia Q4 2025",526.0,37,78.4,58,262.0,37,560,790.0,359,8.0,7.0,8.0,8.7,7.8,6.8
+214,"Major cloud customer pauses AMD EPYC server deployment",526.5,99,77.8,472,582.3,291,206,470.7,99,7.8,6.8,7.8,8.5,7.8,7.5
+215,"AMD non-GAAP gross margin drivers Q3 2025 earnings preview notes",526.8,130,77.5,731,610.3,526,225,443.3,130,8.0,7.0,7.8,8.3,7.7,6.2
+216,"US restrictions on AI accelerator exports expanded Nov 2025 week site:whitehouse.gov briefing China chips",528.3,4,78.4,40,245.7,4,583,811.0,304,8.0,6.8,7.8,8.5,8.0,7.3
+217,"CoWoS module yield issues for AMD packages supplier chatter",529.0,316,76.0,359,353.7,316,863,704.3,606,7.7,6.7,7.5,8.3,8.0,7.3
+218,"AMD announces delay in next-gen MI400 accelerator timeline",529.7,45,78.2,62,242.3,45,385,817.0,65,8.0,6.8,7.8,8.7,7.7,7.3
+219,"Reports of Microsoft Azure rapidly expanding AMD-based instances",530.3,7,78.5,112,380.7,7,418,680.0,300,8.0,6.8,7.8,8.7,8.0,7.3
+220,"TSMC allocating new CoWoS capacity exclusively for AMD MI300/MI400 series",531.8,40,78.0,344,518.3,158,213,545.3,40,7.8,6.8,7.7,8.3,8.2,7.7
+221,"AMD revenue beat precursors in hyperscaler earnings footnotes Q3 2025",534.5,97,77.4,251,448.7,97,504,620.3,246,7.7,6.7,7.5,8.5,8.2,7.3
+222,"HBM spot pricing spike Q4 2025 impact on AMD gross margin",536.7,237,76.7,389,507.7,237,444,565.7,318,8.0,7.0,7.7,8.3,7.8,6.7
+223,"rumors of MI350X production delays in supply chain forums",536.8,144,77.1,455,440.7,340,366,633.0,144,7.7,6.7,7.7,8.5,7.8,7.7
+224,"Chatter about AMD losing a key datacenter design win to a competitor",537.0,149,77.2,161,234.0,149,601,840.0,321,7.8,6.8,7.7,8.7,7.7,7.2
+225,"AMD Analyst Day previews leaking bullish roadmap on investor forums",537.7,166,77.1,482,685.3,166,264,390.0,250,7.7,6.7,7.7,8.5,8.3,7.5
+226,"BIS denial or delay of AMD export licenses MI350 China report",538.0,155,77.0,248,288.0,155,605,788.0,313,7.7,6.5,7.5,8.7,8.0,7.3
+227,"TSMC CoWoS bottleneck prioritizing Nvidia over AMD October 2025 site:ctee.com.tw CoWoS 產能",538.2,109,77.5,166,206.0,161,429,870.3,109,7.8,6.7,7.5,8.5,8.7,7.3
+228,"Meta AI capex commentary referencing AMD GPU ramps November 2025",539.0,29,78.2,122,420.7,29,368,657.3,220,8.0,6.8,7.8,8.7,8.0,7.0
+229,"DigiTimes report AMD MI300 supply constrained HBM shortage November 2025",539.2,53,77.9,188,298.0,129,311,780.3,53,7.8,6.8,7.7,8.5,8.2,7.5
+230,"SK hynix reallocates HBM supply from AMD to Nvidia November 2025",540.8,8,78.3,298,367.7,292,212,714.0,8,8.0,6.8,7.8,8.7,7.8,7.3
+231,"Downgrades of AMD stock by multiple analysts pre-earnings",541.0,131,77.4,769,901.7,461,102,180.3,131,8.0,7.2,7.8,8.5,7.5,7.0
+232,"HBM defect density spike impacting AMD lots Oct 2025 site:chosun.com HBM 불량",543.2,85,77.5,204,360.7,85,330,725.7,108,7.7,6.7,7.7,8.5,8.7,7.3
+233,"Nvidia Blackwell/H200 ramp faster than expected Q4 2025 crowding AMD site:nikkei.com",543.7,93,77.6,155,338.7,93,396,748.7,201,7.8,6.8,7.8,8.7,8.2,6.8
+234,"工商時報 CoWoS 良率下滑 影響 AMD 出貨 2025年11月",545.2,82,77.5,117,181.3,82,668,909.0,397,7.7,6.7,7.7,8.5,8.7,7.5
+235,"Hacktivist leaks of AMD's competitive benchmarks against Nvidia pre-earnings November 2025",546.2,17,77.9,339,835.0,17,144,257.3,56,7.7,6.8,7.7,8.2,8.7,8.5
+236,"MLPerf training results poor for AMD MI300 November 2025",547.0,166,76.9,611,732.7,292,221,361.3,166,7.7,6.7,7.7,8.3,8.5,7.5
+237,"HBM3E shortage risk Q4 2025 SK hynix allocation cuts to AMD",547.0,143,77.1,209,352.7,143,573,741.3,382,8.0,6.7,7.7,8.7,7.7,6.8
+238,"internal leaks confirming AMD met internal targets exactly",550.8,68,77.2,644,648.0,355,277,453.7,68,7.5,6.5,7.5,8.3,8.3,7.8
+239,"ROCm driver critical bug affecting MI350 November 2025 release notes",552.3,74,77.0,925,695.0,637,304,409.7,74,7.5,6.5,7.5,8.0,8.5,7.5
+240,"AMD gross margin expansion drivers mix shift to data center Q3 2025",553.8,149,77.0,775,861.3,480,155,246.3,149,8.0,6.8,7.7,8.7,7.7,6.7
+241,"AMD Q3 EPS in-line but guide soft from mixed AI signals November 2025",554.2,9,78.1,147,601.0,9,252,507.3,110,8.0,7.2,7.8,8.5,8.0,7.0
+242,"AMD Q3 2025 whisper number for EPS and revenue dispersion across sources",557.7,36,77.4,214,588.0,36,514,527.3,269,7.8,6.8,7.7,8.2,8.2,6.5
+243,"US export controls on AI chips expanded scope impact on AMD",558.2,312,75.7,289,316.0,312,910,800.3,635,7.7,6.7,7.7,8.5,7.7,7.3
+244,"negative pre-earnings report from short-seller on AMD",558.3,67,77.6,61,152.3,67,448,964.3,84,7.8,7.2,7.8,8.5,7.8,7.5
+245,"Unreported AMD data center contract wins with hyperscalers in October 2025 from industry insider blogs",558.5,101,77.1,234,372.0,101,346,745.0,105,7.7,6.5,7.5,8.7,8.3,7.8
+246,"China domestic AI chip development faster than expected, reducing AMD demand",561.3,303,75.8,464,594.0,303,480,528.7,350,7.8,6.8,7.7,8.5,7.7,6.8
+247,"BIS export license updates affecting AMD AI GPUs Nov 2025 site:bis.doc.gov",562.7,78,77.2,103,164.7,78,1063,960.7,758,7.7,6.7,7.7,8.3,8.5,7.3
+248,"TSMC CoWoS bottlenecks delaying AMD shipments November 2025 reports",564.2,12,77.9,36,263.3,12,413,865.0,78,7.8,6.8,7.8,8.7,8.3,7.5
+249,"Export license denials for AMD AI accelerators Middle East China Nov 2025",565.3,121,76.9,348,509.0,185,296,621.7,121,7.8,6.7,7.7,8.5,8.2,7.2
+250,"台積電 CoWoS 產能 提前擴充 受惠 AMD 2025年Q4",569.2,99,76.7,195,321.7,99,991,816.7,725,7.5,6.5,7.5,8.5,8.3,7.3
+251,"Analyst downgrades AMD pre-earnings November 2025",570.7,189,76.6,754,832.3,471,150,309.0,189,8.0,7.0,7.8,8.5,7.8,6.8
+252,"AMD MI350 demand fails to meet high expectations",573.5,121,76.8,168,296.3,121,631,850.7,359,8.0,7.0,7.7,8.5,7.2,6.7
+253,"TrendForce update indicating HBM supply improvement enabling AMD upside shipments",575.7,121,76.5,140,180.0,121,912,971.3,514,7.7,6.5,7.5,8.3,8.3,7.2
+254,"Google TPU v6 internal benchmarks show performance lead over MI350",576.3,147,76.3,179,258.3,147,849,894.3,495,7.7,6.5,7.5,8.3,8.0,7.5
+255,"AMD MI300X large order rumors from non-US cloud providers October 2025",579.7,49,77.0,275,405.7,203,371,753.7,49,7.7,6.7,7.7,8.5,7.8,7.5
+256,"leaked memos on AMD hitting exact guidance",579.7,92,76.6,673,720.7,359,283,438.7,92,7.5,6.5,7.5,8.3,8.2,7.8
+257,"Intel Granite Rapids gaining server market share faster than expected",579.8,133,76.7,271,392.7,232,370,767.0,133,7.8,6.8,7.8,8.5,7.8,7.0
+258,"site:servethehome.com early MI35x inference throughput review",580.0,122,76.2,431,673.0,122,690,487.0,464,7.3,6.3,7.3,8.3,8.5,7.5
+259,"OpenAI pivot away from AMD October 2025 sourcing chatter",580.3,137,76.5,338,491.0,190,359,669.7,137,7.7,6.7,7.7,8.5,7.8,7.7
+260,"Government export license approvals referencing AMD MI308 to China late 2025 site:bis.doc.gov license",581.2,82,76.7,127,230.0,82,724,932.3,303,7.7,6.5,7.5,8.3,8.5,7.0
+261,"LaminiAI benchmarks showing AMD MI300X outperforming H100 on enterprise LLMs",582.8,62,76.8,1142,926.0,738,139,239.7,62,7.5,6.5,7.5,8.2,8.7,8.0
+262,"OpenAI partnership revenue contribution timeline AMD",583.3,95,76.9,962,915.7,596,94,251.0,95,7.8,6.8,7.7,8.5,8.2,7.0
+263,"Supplier earnings call warns AMD order cuts Q4 2025",584.2,83,76.6,324,585.0,83,456,583.3,233,7.7,6.7,7.5,8.3,8.0,7.3
+264,"Meta AI training clusters AMD MI350 procurement tender",584.8,319,75.1,695,769.0,372,403,400.7,319,7.7,6.7,7.5,8.2,8.2,7.5
+265,"Analysis of power consumption benchmarks MI300X vs B100 in real-world AI workloads",585.8,178,76.0,596,753.0,283,299,418.7,178,7.7,6.5,7.5,8.3,8.5,7.2
+266,"site:trendforce.com HBM allocation shift away from AMD 2025",586.3,95,76.5,384,585.3,95,532,587.3,390,7.5,6.5,7.5,8.5,8.3,7.7
+267,"Azure deprioritize AMD GPU capacity internal memo November 2025",588.0,6,77.4,276,328.7,179,240,847.3,6,7.7,6.8,7.7,8.5,8.5,7.8
+268,"AMD announces technology breakthrough in next-generation interconnect for AI clusters",588.2,136,76.6,655,925.7,293,105,250.7,136,7.8,6.8,7.8,8.7,7.7,7.7
+269,"Hyperscaler purchase commitments to AMD accelerators reported by supply chain media 2025 site:eetaiwan.com",588.2,249,75.5,747,605.3,527,435,571.0,249,7.5,6.5,7.5,8.3,8.7,7.3
+270,"BIS halts licenses for AMD accelerator exports to China October 2025",589.5,64,76.8,87,229.0,64,771,950.0,448,7.8,6.7,7.5,8.5,8.0,7.5
+271,"SK hynix HBM3E 12-Hi yield improvement reports benefiting AMD October 2025 site:thelec.kr",589.7,59,76.6,224,373.3,59,1033,806.0,762,7.5,6.5,7.5,8.2,8.5,7.3
+272,"site:udn.com AMD AI accelerator backlog Oracle Cloud 2025",589.8,80,76.6,110,170.7,80,1070,1009.0,655,7.5,6.5,7.5,8.3,8.7,7.5
+273,"AMD China export license denials leaked in trade journals November 2025",591.0,269,75.3,402,404.0,269,588,778.0,295,7.7,6.5,7.5,8.5,7.8,7.2
+274,"MI300 vs H200 inference benchmarks 2025 independent labs site:mlcommons.org",591.2,167,76.1,313,395.7,197,461,786.7,167,7.7,6.5,7.5,8.3,8.7,7.2
+275,"supply chain leaks from Taiwan on AMD MI350 production ramp-up before November 2025",595.0,42,77.0,145,428.0,42,362,762.0,65,7.8,6.7,7.7,8.3,8.3,7.5
+276,"Intel Gaudi 3 price cuts undercut AMD November 2025 resellers",595.7,72,76.6,715,863.0,365,176,328.3,72,7.7,6.7,7.7,8.3,8.2,7.3
+277,"Taiwanese media reports of AMD cutting wafer orders from TSMC for Q1 2026",595.8,23,77.2,20,137.0,23,522,1054.7,91,7.8,6.7,7.7,8.7,8.5,7.5
+278,"Custom silicon alternatives displacing AMD in AI projects Oct 2025 site:theinformation.com custom AI chip",597.0,85,76.4,213,326.7,85,660,867.3,378,7.7,6.5,7.5,8.3,8.5,7.2
+279,"AMD's AI revenue growth fails to meet elevated market expectations",597.0,7,77.7,794,909.7,548,34,284.3,7,8.2,7.2,8.2,8.8,7.7,6.5
+280,"Dell PowerEdge with AMD Instinct MI350 shipping dates reseller portal leak",597.2,272,74.9,489,470.3,272,752,724.0,446,7.3,6.3,7.3,8.2,8.7,7.2
+281,"Azure MI300X instance launch October 2025 AMD partnership details",598.8,131,76.2,269,413.7,131,452,784.0,191,7.7,6.7,7.7,8.5,8.2,6.8
+282,"CSP instance delays for AMD MI300X indefinite November 2025",599.3,160,76.2,577,723.7,379,245,475.0,160,7.8,7.0,7.8,8.3,8.0,7.0
+283,"Intel Gaudi 3 performance comparisons vs AMD MI300X",599.3,117,76.5,450,755.3,234,202,443.3,117,7.8,6.8,7.8,8.5,8.0,7.2
+284,"TrendForce note AI server order cuts mention AMD November 2025",599.8,104,76.4,123,168.7,104,1100,1031.0,771,7.7,6.7,7.7,8.3,8.3,7.2
+285,"Hacktivist reveals of AMD's market share erosion",601.3,151,75.8,924,708.7,623,334,494.0,151,7.5,6.7,7.5,8.0,8.0,8.0
+286,"Independent ROCm 6 benchmarks vs CUDA 2025 site:arxiv.org site:paperswithcode.com",601.8,307,74.8,1046,810.7,660,405,393.0,307,7.3,6.3,7.2,8.2,9.3,7.7
+287,"ROCm performance gap vs CUDA 2025 benchmark",601.8,311,75.0,590,777.3,338,451,426.3,311,7.7,6.7,7.7,8.5,7.7,7.2
+288,"Customer concentration risk Meta or Microsoft reducing AMD orders Nov 2025",603.0,322,75.2,407,434.3,365,469,771.7,322,7.8,6.8,7.8,8.7,7.7,7.3
+289,"TSMC CoWoS bottlenecks cause AMD AI GPU shipment delays Nov 2025",604.8,77,76.5,274,368.7,265,398,841.0,77,7.8,6.7,7.7,8.5,8.0,7.0
+290,"Worsening HBM supply constraints for AMD in supplier warnings November 2025",605.0,203,75.7,253,364.3,203,692,845.7,427,7.8,6.7,7.7,8.7,7.3,7.0
+291,"AMD server CPU market share erosion Intel Granite Rapids benchmarks September 2025",605.0,68,76.5,594,882.0,238,172,328.0,68,7.7,6.7,7.7,8.5,8.2,6.8
+292,"AMD HBM supply chain resolutions from SK Hynix internal memos November 2025",605.2,348,74.6,602,592.3,348,563,618.0,414,7.5,6.5,7.5,8.5,8.2,7.3
+293,"Azure AMD MI350 instance launch timeline site:azure.microsoft.com",607.2,110,76.2,395,559.0,110,310,655.3,174,7.7,6.5,7.5,8.5,8.5,7.3
+294,"Supermicro reallocates capacity from AMD systems to Nvidia late 2025",607.3,349,74.7,566,664.0,407,540,550.7,349,7.8,6.7,7.5,8.3,8.0,6.8
+295,"Amazon AWS or Microsoft Azure signal reduced spending on AMD chips",608.2,15,77.2,595,697.3,417,81,519.0,15,8.0,7.0,8.0,8.7,7.8,7.0
+296,"ROCm critical bug or security advisory near early November 2025",609.0,103,76.3,316,489.3,213,336,728.7,103,7.8,7.0,7.8,8.0,8.0,7.2
+297,"AMD vs Nvidia data center GPU market share estimates Q3 2025",609.3,71,76.4,158,307.0,71,646,911.7,361,8.0,6.7,7.5,8.7,7.7,6.0
+298,"AMD pricing power on MI300X versus Nvidia H200 ASP trends",610.0,111,76.3,844,955.7,495,129,264.3,111,7.8,6.7,7.7,8.5,8.2,7.0
+299,"leaked internal memo about AMD AI accelerator software challenges",610.7,128,76.1,760,652.3,467,220,569.0,128,7.7,6.7,7.7,8.2,8.5,7.7
+300,"Microsoft Azure AMD MI300X instance availability expanding rapidly October 2025",610.8,34,76.9,1085,1004.7,655,41,217.0,34,7.8,6.7,7.7,8.5,8.7,7.2
+301,"AMD MI350 launch slip internal roadmaps leaked",611.7,341,74.5,456,443.3,341,662,780.0,392,7.7,6.5,7.5,8.5,7.7,7.3
+302,"AMD MI300X performance benchmarks on new AI models (Llama 4) vs Nvidia",612.2,64,76.3,1334,1054.0,928,112,170.3,64,7.7,6.5,7.5,8.3,8.2,7.5
+303,"Gross margin miss drivers AMD Q3 2025 memory costs",612.5,5,76.9,124,416.3,5,536,808.7,222,8.0,6.8,7.7,8.3,7.7,6.7
+304,"AMD Q4 guide miss risks from delayed AI orders in supplier alerts November 2025",613.7,245,75.3,622,784.0,318,278,443.3,245,7.7,6.7,7.7,8.7,8.0,7.2
+305,"Micron HBM shipments to AMD below plan Q4 2025",615.5,175,75.5,353,517.7,175,602,713.3,322,7.7,6.5,7.5,8.5,7.7,7.2
+306,"HBM price spike squeezing AMD margins Q4 2025",615.7,219,75.6,555,656.3,356,294,575.0,219,7.8,6.8,7.8,8.7,7.5,6.8
+307,"reports of AMD MI350 production delays or yield issues",618.5,102,76.1,620,577.7,417,290,659.3,102,7.7,6.7,7.5,8.7,8.0,7.0
+308,"TSMC reports unexpected 3nm yield issues affecting AMD supply",618.7,61,76.4,626,904.7,273,158,332.7,61,7.7,6.7,7.7,8.5,8.2,7.2
+309,"China data center AI chip orders shifting away from AMD Q3 2025 due to sanctions",619.2,267,75.0,400,412.3,267,529,826.0,297,7.7,6.7,7.7,8.5,7.8,7.3
+310,"Supermicro record backlog AMD MI300 press release November 2025",620.7,181,75.5,231,361.7,181,700,879.7,399,7.7,6.8,7.7,8.3,8.0,7.2
+311,"Leaked internal memo about AMD MI300X software bugs or performance issues",621.8,47,76.3,256,542.7,132,355,701.0,47,7.7,6.8,7.3,8.5,8.0,7.7
+312,"site:importgenius.com AMD MI350 shipments to Microsoft Azure October-November 2025",622.8,288,74.4,441,492.3,288,837,753.3,488,7.5,6.3,7.2,8.0,8.8,7.2
+313,"TSMC 3DFabric CoWoS expansion ahead of schedule benefits AMD 2025",623.0,54,76.3,131,271.3,54,1201,974.7,904,7.7,6.7,7.7,8.3,8.3,7.0
+314,"Google Cloud preview of AMD Instinct MI350-based AI instances and partner testimonials",623.2,7,76.9,398,731.3,100,91,515.0,7,7.8,6.7,7.5,8.7,9.0,7.5
+315,"Google TPU v6 wins displacing AMD accelerators report",624.7,366,74.4,805,830.3,494,345,419.0,366,7.7,6.7,7.7,8.7,7.8,7.0
+316,"MI350 early sample performance vs Nvidia Blackwell partner notes",625.2,161,75.7,370,617.0,174,317,633.3,161,7.8,6.7,7.7,8.7,7.5,7.5
+317,"Nvidia experiences unexpected yield issues with B100 production",626.8,10,76.8,918,950.7,576,54,303.0,10,7.8,6.8,7.8,8.7,7.8,7.3
+318,"site:importgenius.com MI300 shipments to HPE and Dell Sep Oct 2025",627.2,247,74.6,386,418.3,247,836,836.0,450,7.3,6.3,7.3,8.2,8.8,7.0
+319,"South Korean memory supplier comments on HBM3e demand for AMD AI chips",627.8,213,75.0,380,505.7,213,806,750.0,516,7.5,6.5,7.5,8.3,8.0,7.0
+320,"site:panjiva.com sharp drop AMD accelerator shipments October 2025",631.3,68,76.0,111,174.7,68,1276,1088.0,848,7.5,6.5,7.5,8.3,8.7,7.3
+321,"Digitimes AMD MI350 CoWoS bottleneck delays Q4 2025",631.7,142,75.6,199,302.7,142,759,960.7,459,7.8,6.5,7.3,8.5,8.0,7.2
+322,"Whispers of AMD cutting MI300X price to compete with Nvidia B100",632.0,67,76.0,830,741.7,539,239,522.3,67,7.7,6.7,7.5,8.5,7.7,7.5
+323,"Intel Gaudi 3 discounting undercutting AMD MI300 pricing Nov 2025",632.8,99,75.8,430,636.7,245,332,629.0,99,7.7,6.7,7.7,8.3,8.0,7.2
+324,"Nvidia price cuts H200 Blackwell pre announcement press leaks",633.7,37,76.5,755,931.0,387,60,336.3,37,7.8,6.8,7.8,8.7,8.0,7.2
+325,"Downward revisions to AMD gross margins in private models",633.7,44,76.5,583,899.3,308,109,368.0,44,8.0,7.0,7.7,8.7,7.7,6.8
+326,"Negative pre-earnings report from influential short-seller on AMD",634.5,8,76.7,53,270.0,8,528,999.0,172,7.8,7.2,7.7,8.3,8.2,7.3
+327,"Phoronix benchmarks showing AMD MI350 underperforming vs expectations",635.7,173,75.4,613,740.0,295,253,531.3,173,7.7,6.7,7.7,8.3,8.5,7.0
+328,"Surprise AMD AI chip efficiency benchmarks leaked on hardware enthusiast sites",635.8,81,75.9,616,694.3,338,256,577.3,81,7.7,6.5,7.5,8.5,8.2,7.3
+329,"AMD data center revenue beat signals from vendor inventory trackers Q3 2025",636.3,255,74.7,551,690.3,376,512,582.3,255,7.7,6.7,7.5,8.3,8.0,6.8
+330,"AI model training cost comparison AMD MI350 vs Nvidia H200",638.7,63,76.1,1175,1142.0,723,67,135.3,63,7.7,6.7,7.7,8.3,8.3,7.5
+331,"supply chain brokers chatter AMD guiding below $8.9B midpoint",639.3,19,76.6,807,911.3,458,57,367.3,19,7.8,6.8,7.8,8.5,8.2,7.7
+332,"Earnings whisper below consensus AMD Nov 4 2025",639.5,21,76.5,159,328.7,96,324,950.3,21,8.0,7.2,7.8,8.3,7.5,6.5
+333,"Leaked benchmarks of AMD Zen 6 early samples vs Intel Arrow Lake",640.2,129,75.6,703,983.3,280,164,297.0,129,7.5,6.5,7.5,8.5,8.8,7.5
+334,"TSMC CoWoS capacity allocation increase for AMD Q4 2025 TrendForce",643.7,21,76.3,27,159.7,21,691,1127.7,215,7.8,6.7,7.7,8.5,8.3,6.7
+335,"What is AMD Q4 2025 accelerator backlog size management commentary",644.0,264,74.5,442,661.7,264,648,626.3,461,7.7,6.5,7.5,8.5,8.0,7.0
+336,"LLM inference benchmarks show MI300 underperformance at CSPs",645.0,246,74.8,262,365.7,246,669,924.3,360,7.8,6.7,7.7,8.5,7.7,6.7
+337,"AMD beats revenue consensus but guides Q4 in-line",646.2,45,76.1,84,277.7,45,511,1014.7,80,7.8,7.0,7.8,8.5,7.5,6.2
+338,"SK hynix HBM3E allocation share to AMD vs NVIDIA for Q4 2025",647.2,47,76.2,169,640.3,47,527,654.0,358,7.8,6.8,7.7,8.7,8.0,6.8
+339,"Susquehanna channel checks AMD order momentum into Q4 2025 upside signals",649.0,72,75.7,170,361.7,72,908,936.3,659,7.5,6.7,7.5,8.5,8.3,7.3
+340,"Worsening export restrictions on AMD in policy discussions",651.3,62,75.7,503,700.0,298,305,602.7,62,7.7,6.7,7.7,8.3,7.8,7.3
+341,"TSMC CoWoS bottleneck impacting AMD MI350 yields October 2025",651.7,61,75.7,66,177.7,61,1017,1125.7,536,7.8,6.5,7.5,8.3,7.8,7.2
+342,"TSMC CoWoS monthly output dedicated to AMD accelerators Nov 2025",652.3,98,75.5,245,474.3,98,634,830.3,374,7.7,6.5,7.5,8.5,8.3,7.0
+343,"HBM3E allocation cuts to AMD noted by brokers November 2025",652.8,47,75.7,522,592.7,362,354,713.0,47,7.7,6.5,7.5,8.5,7.7,7.3
+344,"AMD MI350 production yield improvements Q3 2025 supply chain rumors",653.0,346,73.9,502,558.0,346,554,748.0,350,7.7,6.7,7.7,8.3,8.0,7.0
+345,"CoWoS lead times extended beyond 6 months AMD allocation",653.7,60,75.5,420,621.3,141,348,686.0,60,7.7,6.5,7.3,8.3,7.8,7.3
+346,"Meta/ByteDance procurement chatter favoring AMD MI October 2025 site:36kr.com OR site:theinformation.com",655.0,63,75.5,1045,787.3,659,235,522.7,63,7.5,6.3,7.3,8.2,8.7,7.7
+347,"Major cloud cancels or defers AMD MI300X orders November 2025",655.0,145,75.3,342,578.3,145,352,731.7,189,7.7,6.7,7.7,8.7,7.7,7.5
+348,"AMD MI350 accelerator supply chain delays resolved unexpectedly November 2025",655.0,155,75.2,585,681.7,398,315,628.3,155,7.8,6.7,7.7,8.5,7.8,6.8
+349,"Unannounced sovereign AI deal for AMD in Europe or Middle East",656.3,57,75.8,192,293.3,169,454,1019.3,57,7.8,6.5,7.5,8.7,7.5,8.0
+350,"AMD ROCm 6.0 achieves performance parity with CUDA in key AI workloads benchmarks",656.8,44,75.8,401,738.3,44,254,575.3,75,7.7,6.7,7.5,8.3,8.0,7.5
+351,"Downgrade of AMD stock by a major bank due to macro concerns",657.0,153,75.1,632,554.7,483,374,759.3,153,7.8,6.8,7.7,8.3,7.5,6.7
+352,"underground AI hardware enthusiast discussions on AMD MI300 overperformance in beta tests November 2025",658.5,380,73.4,916,696.3,562,501,620.7,380,7.3,6.5,7.3,8.3,8.3,7.8
+353,"leaked emails on AMD missing targets",658.7,87,75.5,142,189.3,111,571,1128.0,87,7.5,6.5,7.5,8.5,8.0,8.5
+354,"AMD Q4 revenue guide whisper number MI350 upside checks",659.3,188,74.8,540,808.0,209,318,510.7,188,7.7,6.7,7.3,8.5,8.0,7.3
+355,"Meta AI cluster expansion tender awarding AMD accelerators 2025",660.0,140,75.2,811,1030.3,438,195,289.7,140,7.7,6.7,7.7,8.3,8.0,7.7
+356,"OpenAI deprioritizes AMD hardware in 2025 procurement",660.0,100,75.4,717,796.3,405,255,523.7,100,7.7,6.5,7.5,8.5,8.0,7.3
+357,"Enterprise tenders awarding Nvidia Blackwell over AMD Oct 2025",660.3,182,74.7,364,532.7,182,629,788.0,330,7.7,6.5,7.5,8.5,7.5,7.2
+358,"BIS tightens AI chip restrictions October 2025 impact on AMD",660.8,297,73.9,460,567.7,297,783,754.0,483,7.5,6.5,7.5,8.2,8.0,7.2
+359,"major cloud customer pauses AMD EPYC server deployment",660.8,404,73.2,457,453.0,404,942,868.7,551,7.7,6.5,7.3,8.3,7.7,6.8
+360,"OpenAI inference workload migration to AMD hints job postings kernels",662.2,89,75.1,808,702.0,446,319,622.3,89,7.3,6.3,7.3,8.3,8.5,7.7
+361,"AMD loses server market share to ARM-based CPUs like Nvidia's Grace",664.0,283,74.3,631,897.3,283,337,430.7,354,7.7,6.7,7.7,8.7,7.8,6.8
+362,"Google Cloud MI300 instance documentation and partner blogs Nov 2025",664.3,179,74.7,1147,1005.7,733,223,323.0,179,7.5,6.5,7.5,8.2,8.8,7.0
+363,"AMD MI350 missing MLPerf submission due to software readiness delays",665.3,76,75.3,1272,1074.7,850,161,256.0,76,7.5,6.5,7.5,8.2,8.3,7.5
+364,"site:panjiva.com AMD Instinct MI300 export shipments October 2025",668.0,67,75.2,219,338.0,67,1099,998.0,721,7.5,6.3,7.3,8.2,8.7,7.0
+365,"AMD supply chain disruptions causing earnings miss November 2025",668.5,25,75.9,69,267.0,25,655,1070.0,272,7.8,6.8,7.7,8.5,7.8,6.8
+366,"Nikkei reports AMD trimming wafer starts at TSMC November 2025",669.0,407,73.0,556,518.0,407,951,820.0,678,7.5,6.5,7.5,8.2,8.0,7.2
+367,"SK hynix HBM TSV yield improvement tied to AMD 2025",670.8,216,74.4,524,755.3,216,524,586.3,393,7.5,6.5,7.5,8.5,8.3,7.0
+368,"SK hynix HBM3E shipments earmarked for AMD MI300 supplier memo November 2025",675.7,76,75.2,216,475.0,76,1064,876.3,784,7.5,6.5,7.5,8.3,8.3,7.3
+369,"AMD Q3 2025 earnings miss signals from delayed supplier payments in trade reports",676.8,95,75.1,419,540.0,252,416,813.7,95,7.7,6.5,7.5,8.5,7.8,7.0
+370,"Pessimistic AMD earnings previews from contrarian analysts November 2025",682.3,125,75.0,1059,1140.7,594,100,224.0,125,7.7,6.7,7.7,8.5,8.0,7.3
+371,"TSMC 3nm wafer order increase AMD late Q3 2025",683.2,347,73.2,490,558.0,347,1019,808.3,749,7.5,6.5,7.5,8.3,7.8,7.0
+372,"Taiwanese ODMs order book for AMD Instinct servers Q4 2025 Digitimes",685.2,241,73.8,514,563.7,241,534,806.7,244,7.5,6.3,7.3,8.3,8.5,6.8
+373,"evidence of market share loss in server CPUs to Intel or ARM",685.7,263,73.9,615,755.7,350,438,615.7,263,7.7,6.7,7.7,8.3,7.7,7.0
+374,"site:digitimes.com CoWoS bottlenecks persist into Q4 2025 hurt AMD",686.7,225,74.1,233,281.3,225,1217,1092.0,819,7.7,6.5,7.3,8.3,8.5,7.0
+375,"H100 H200 supply still tight pushing demand to AMD site:servethehome.com",686.8,373,73.1,1235,939.7,855,350,434.0,373,7.5,6.5,7.5,8.5,8.0,7.2
+376,"Meta internal slide leak AMD accelerator deployment count 2025H2",687.7,289,73.6,979,1057.7,437,265,317.7,289,7.3,6.3,7.3,8.5,8.5,7.8
+377,"New export controls October 2025 impact on AMD AI GPUs site:bis.doc.gov",687.8,104,74.6,320,480.3,104,945,895.3,646,7.3,6.3,7.3,8.3,8.3,7.3
+378,"Export restrictions tightening on AMD products 2025",688.0,34,75.1,134,301.0,34,966,1075.0,501,7.5,6.5,7.5,8.5,7.5,7.2
+379,"Intel Gaudi 3 large wins displacing AMD Q4 2025",688.2,97,75.1,557,736.0,346,262,640.3,97,7.8,6.7,7.7,8.5,7.7,7.2
+380,"site:teamblind.com AMD record data center orders Q3 2025",688.3,176,74.3,550,926.0,176,381,450.7,260,7.7,6.7,7.5,8.2,8.0,7.0
+381,"chatter about order push-outs from a top 3 AMD data center customer",689.2,332,73.3,343,359.7,332,1091,1018.7,663,7.5,6.5,7.5,8.3,7.8,7.3
+382,"COWOS substrate warpage/yield problems on AMD packages Oct 2025 site:eetasia.com",690.5,244,73.7,375,432.0,244,1034,949.0,639,7.3,6.3,7.3,8.2,8.7,7.3
+383,"Unimicron AMD CoWoS substrate orders surge Q4 2025",691.3,163,74.3,355,605.0,163,698,777.7,421,7.5,6.5,7.5,8.3,8.3,7.0
+384,"US export controls tightening AMD datacenter GPU Middle East October 2025",692.8,289,73.6,295,370.0,289,776,1015.7,453,7.7,6.5,7.5,8.5,7.8,7.3
+385,"AMD gross margin pressure from accelerator discounting Q4 2025",693.7,153,74.8,744,1106.7,361,115,280.7,153,7.8,6.8,7.8,8.5,8.0,7.2
+386,"MLPerf Training/Inference 2025 results featuring AMD MI300X leadership site:mlcommons.org",695.3,309,73.2,1053,858.7,648,408,532.0,309,7.5,6.3,7.3,8.3,8.2,7.3
+387,"Panjiva AMD Instinct MI350 shipments surge October 2025",696.5,77,74.7,94,139.0,77,1188,1254.0,592,7.5,6.3,7.3,8.2,8.8,7.2
+388,"Whispers of a large enterprise software company (e.g., Oracle, SAP) optimizing its stack for AMD Instinct",697.2,67,74.9,347,527.0,172,388,867.3,67,7.7,6.5,7.5,8.3,8.0,7.5
+389,"site:ctee.com.tw TSMC CoWoS capacity expansion for AMD orders Q4 2025",700.2,98,74.5,205,334.7,98,1244,1065.7,808,7.3,6.3,7.3,8.3,8.8,7.2
+390,"Hyperscaler delays MI300 deployments due to software maturity concerns",700.3,81,74.7,534,617.7,340,427,783.0,81,7.5,6.5,7.5,8.3,8.0,7.3
+391,"ROCm 6.x unofficial MLPerf preprints showing AMD beating H200 on specific models",700.8,72,74.8,1179,997.0,792,167,404.7,72,7.5,6.5,7.5,8.2,8.5,7.7
+392,"TSMC packaging yield issues for AMD CoWoS October 2025",702.2,410,72.5,558,568.0,410,784,836.3,471,7.5,6.3,7.3,8.3,8.2,7.2
+393,"site:bis.doc.gov Q4 guide risk from China licenses AMD",703.0,79,74.7,575,871.3,316,312,534.7,79,7.7,6.7,7.3,8.2,8.7,6.8
+394,"Oracle Cloud delays or cancels AMD MI350 rollout rumor November 2025",703.5,117,74.5,624,682.3,332,313,724.7,117,7.5,6.5,7.5,8.5,8.2,7.3
+395,"AMD data center growth slows unexpectedly in Q3 2025",704.0,314,73.3,403,446.7,345,625,961.3,314,7.7,6.7,7.7,8.5,7.7,7.0
+396,"OpenAI Anthropic testing MI300 cluster rumor sourcing forums November 2025",704.3,273,73.3,982,730.3,631,433,678.3,273,7.3,6.5,7.3,8.3,8.3,7.5
+397,"AMD datacenter revenue growth decelerates unexpectedly in Q3",704.5,290,73.4,424,533.0,298,576,876.0,290,7.8,6.7,7.7,8.3,7.3,6.7
+398,"Azure AI infrastructure blog mentions AMD MI350 scale out",705.0,160,74.1,1301,1046.7,901,233,363.3,160,7.5,6.5,7.5,8.2,8.2,7.7
+399,"AMD data center slowdown signals from hyperscaler capex cuts October 2025",705.5,223,73.7,680,601.7,503,538,809.3,223,7.7,6.5,7.5,8.5,7.3,6.8
+400,"US government expands tech export restrictions to new sectors affecting AMD",705.7,321,73.2,385,433.3,321,1094,978.0,791,7.7,6.7,7.7,8.3,7.3,7.2
+401,"Insider selling spikes at AMD before Q3",706.2,209,73.8,681,715.0,392,457,697.3,209,7.5,7.2,7.3,8.0,7.7,7.7
+402,"Chinese cloud providers pausing AMD accelerator purchases regulatory risk",706.8,151,74.3,285,409.3,204,494,1004.3,151,7.8,6.7,7.5,8.3,7.8,7.0
+403,"TSMC production yield issues 3nm node affecting AMD",708.5,416,72.5,495,466.7,416,778,950.3,467,7.8,6.5,7.3,8.5,7.5,6.3
+404,"AWS timeline for AMD Instinct MI350 instance GA and preview customer list",709.2,132,74.4,300,588.3,132,453,830.0,167,7.7,6.5,7.5,8.3,8.5,7.0
+405,"ROCm 6.2 MLPerf results MI300 vs H100 November 2025",709.5,127,74.1,1098,869.7,700,321,549.3,127,7.3,6.3,7.3,8.2,8.5,7.3
+406,"Insider selling spikes AMD before stock drop post-earnings",710.2,61,74.6,905,1126.7,373,168,293.7,61,7.5,6.8,7.3,7.8,8.3,7.8
+407,"Arrow Avnet backlog "MI350 sold out" November 2025 channel check",710.8,75,74.6,474,760.0,158,327,661.7,75,7.5,6.5,7.5,8.3,8.2,7.0
+408,"AMD AI chip power efficiency claims validated by independent third-party testing",711.5,62,74.6,569,579.7,286,357,843.3,62,7.5,6.3,7.3,8.2,8.7,7.2
+409,"Whistleblower reports on Nvidia delays boosting AMD market share in data centers November 2025",711.5,142,74.4,739,852.3,395,224,570.7,142,7.7,6.7,7.7,8.3,8.0,7.5
+410,"AMD earnings whisper number vs consensus Q3 2025",711.8,39,74.8,198,499.0,39,604,924.7,213,7.7,6.7,7.5,8.3,7.8,6.5
+411,"Nvidia Blackwell B100 GPU production ramping faster than expected",714.7,98,74.6,302,643.0,98,485,786.3,301,7.7,6.8,7.7,8.5,7.5,7.2
+412,"HPE Cray MI300 largest order 2025 press release",715.3,100,74.3,981,1059.7,512,194,371.0,100,7.5,6.5,7.5,8.3,8.2,7.2
+413,"Server OEM cancellations AMD Instinct MI300X 2025 evidence",715.7,73,74.7,607,689.0,426,326,742.3,73,7.7,6.7,7.7,8.3,7.8,7.2
+414,"Form 4 unusual AMD CFO/executive sales late Oct-Nov 2025",717.3,92,74.5,297,756.0,92,425,678.7,205,7.5,7.3,7.5,8.0,8.3,7.5
+415,"Microsoft AWS Google CFO commentary data center capex reductions Q4 2025",718.2,329,72.8,576,682.0,329,641,754.3,381,7.7,6.3,7.3,8.5,7.8,6.3
+416,"Tear-down analysis of MI300X reveals higher than expected bill-of-materials cost",719.3,347,72.5,599,594.0,347,1001,844.7,721,7.3,6.3,7.3,8.2,8.2,7.3
+417,"OpenAI partnership MI350 integration progress updates October 2025",720.5,178,73.7,268,410.0,178,1214,1031.0,793,7.7,6.5,7.3,8.2,7.8,7.2
+418,"HBM pricing spike squeezing AMD gross margin Nov 2025 TrendForce",721.0,188,73.8,651,815.3,334,333,626.7,188,7.7,6.5,7.5,8.3,8.2,7.0
+419,"AMD's client computing (PC) segment reports a surprise operating loss",721.7,25,75.2,452,775.0,222,147,668.3,25,7.8,6.8,7.8,8.8,7.5,6.8
+420,"Panjiva export records TSMC to AMD CoWoS modules Q3–Q4 2025 trend",722.8,61,74.3,246,414.7,61,1006,1031.0,601,7.3,6.3,7.3,8.2,8.5,7.3
+421,"Server ODMs report lower than expected orders for AMD EPYC platforms",723.7,341,72.7,535,667.0,341,697,780.3,470,7.7,6.5,7.5,8.3,7.8,7.0
+422,"AMD gross margin expansion drivers Q3 2025 data center mix",725.2,268,73.1,832,919.7,481,389,530.7,268,7.8,6.7,7.3,8.3,7.8,6.0
+423,"AMD AI GPU production delays leaked on supplier forums November 2025",725.8,41,74.6,252,686.7,41,654,765.0,380,7.7,6.5,7.5,8.5,7.7,7.0
+424,"AMD China-specific AI accelerator export license approval rumors",726.8,208,73.4,410,626.3,208,968,827.3,702,7.5,6.5,7.5,8.2,7.8,7.3
+425,"site:crn.com OEM cancellations pushouts AMD accelerator orders",727.3,241,73.1,415,485.3,241,1146,969.3,758,7.5,6.3,7.3,8.2,8.2,6.8
+426,"SK Hynix HBM3E yield improvement breakthroughs September 2025 Korean tech forums",727.5,206,73.5,362,545.3,206,1078,909.7,798,7.5,6.5,7.5,8.2,8.3,7.2
+427,"Hyperscaler cancellations or pushouts of AMD MI300 orders 2H25 supply chain chatter",728.0,311,73.0,332,360.7,311,705,1095.3,369,7.7,6.7,7.5,8.5,8.0,6.8
+428,"AMD R&D setbacks in leaked documents pre-earnings fall",728.5,353,72.3,643,740.3,353,814,716.7,545,7.3,6.5,7.3,8.2,7.8,7.5
+429,"Supermicro RMA rates AMD Instinct servers leaked memo 2025",729.3,469,71.7,656,648.0,469,1045,810.7,771,7.5,6.5,7.5,7.8,8.2,7.5
+430,"Samsung HBM3E qualification milestone achieved for AMD accelerators Q4 2025",734.5,170,73.5,408,549.0,170,672,920.0,388,7.7,6.5,7.3,8.3,7.8,6.8
+431,"Nvidia Blackwell B100 early adoption rates enterprise customer reviews Q3 2025",735.0,28,74.8,851,977.7,488,113,492.3,28,7.8,6.7,7.7,8.5,8.0,6.7
+432,"SK hynix HBM3E shipments to AMD volume estimate November 2025 Panjiva customs",735.3,71,74.0,345,561.0,71,1087,909.7,810,7.3,6.3,7.3,8.2,8.5,7.3
+433,"short seller reports targeting AMD post-earnings",735.3,211,73.3,1222,1132.7,781,273,338.0,211,7.5,6.7,7.5,8.2,7.7,7.5
+434,"AMD MI300X customer deployment delays due to ROCm software bugs",736.0,164,73.4,682,679.0,392,486,793.0,164,7.3,6.3,7.3,8.3,8.2,7.5
+435,"major cloud provider AI capex acceleration October 2025",736.5,30,74.9,809,1008.0,449,90,465.0,30,7.8,6.8,7.8,8.5,7.8,7.0
+436,"Positive analyst revisions to AMD gross margins post-earnings hidden in private newsletters",737.2,500,71.0,1159,871.3,772,755,603.0,500,7.2,6.2,7.2,8.0,8.3,7.3
+437,"HPC benchmarks pre-SC25 AMD Instinct wins November 2025",737.2,70,74.2,1371,1137.7,958,165,336.7,70,7.5,6.5,7.5,8.2,8.3,7.2
+438,"Nvidia H200/Blackwell price cuts affecting AMD MI300 competitiveness Nov 2025",737.3,25,74.8,1407,1225.7,986,49,249.0,25,7.8,6.7,7.7,8.5,7.8,7.2
+439,"Panjiva customs AMD Instinct shipment spike October 2025",737.7,144,73.4,270,412.3,144,1067,1063.0,549,7.3,6.3,7.3,8.0,8.7,6.7
+440,"AMD MI350 power consumption efficiency benchmarks vs B100",738.2,171,73.8,1459,1288.7,1045,103,187.7,171,7.7,6.7,7.5,8.5,8.2,7.5
+441,"HBM yield issue AMD interposer 2025",738.5,66,74.3,486,730.7,295,322,746.3,66,7.7,6.7,7.7,8.3,7.8,7.2
+442,"Gross margin headwinds HBM cost spikes AMD Q3 2025",738.7,214,73.4,757,932.3,377,289,545.0,214,7.7,6.7,7.7,8.3,7.8,6.8
+443,"OEM lead times extending beyond SLAs AMD accelerator racks",739.5,265,72.7,552,668.3,265,740,810.7,491,7.3,6.3,7.3,8.5,8.2,6.7
+444,"AMD's pricing wars leading to lower margins in analyst leaks",739.8,110,73.8,1421,1215.7,1000,198,264.0,110,7.5,6.5,7.5,8.2,8.0,7.3
+445,"AMD announces new AI software partnership with major enterprise software firm October 2025",740.5,157,73.5,202,301.3,157,1320,1179.7,800,7.7,6.3,7.3,8.3,7.8,6.8
+446,"site:skhynix.com HBM3E AMD partnership 2025",741.0,114,73.8,405,589.0,114,671,893.0,435,7.5,6.3,7.3,8.5,8.3,6.7
+447,"AMD datacenter growth deceleration confirmed by supply chain checks",741.2,361,72.4,387,418.3,361,1357,1064.0,1019,7.7,6.7,7.7,8.3,7.7,6.7
+448,"TSMC management commentary citing strong AMD demand in Oct 2025 transcripts site:tsmc.com",741.8,63,74.0,266,446.3,126,562,1037.3,63,7.5,6.3,7.3,8.2,8.5,7.0
+449,"SK hynix HBM3E allocation to AMD Q4 2025 secured",743.3,148,73.7,530,1023.3,148,450,463.3,372,7.7,6.5,7.3,8.7,8.0,6.8
+450,"Azure pauses or limits MI300 instance deployments customer notices",743.7,194,73.2,341,503.7,194,1025,983.7,718,7.5,6.7,7.5,8.2,7.8,7.2
+451,"ROCm security vulnerability advisory November 2025",744.0,270,72.7,944,749.0,635,490,739.0,270,7.5,6.7,7.5,7.8,8.2,7.2
+452,"DigiTimes CoWoS bottleneck AMD allocation cut October 2025",746.5,67,74.2,65,172.0,67,1548,1321.0,1050,7.7,6.5,7.3,8.3,8.7,7.0
+453,"Quanta and Inventec server build plans for AMD Instinct MI350 nodes",747.7,209,73.0,404,599.7,209,729,895.7,370,7.5,6.3,7.3,8.3,8.2,6.8
+454,"AMD export license approvals for China AI chips in regulatory filings November 2025",748.2,177,73.2,187,270.3,177,1379,1226.0,849,7.7,6.3,7.3,8.3,7.8,7.0
+455,"site:substack.com buy-side whisper AMD Q3 2025 EPS 1.22",748.3,638,70.0,964,748.7,638,904,748.0,643,7.2,6.3,7.2,8.0,8.5,7.3
+456,"pre-earnings analyst downgrades citing weaker Q4 guide for AMD",748.5,71,74.0,774,852.0,455,302,645.0,71,7.5,6.7,7.5,8.5,7.7,6.7
+457,"AMD's earnings call sentiment score from AI analysis tools is overwhelmingly positive",749.8,232,72.8,1178,1145.3,750,347,354.3,232,7.5,6.7,7.3,8.2,7.8,6.7
+458,"SK hynix HBM3E yield issues Q4 2025 impact on AMD allocations",750.2,360,72.1,707,900.3,360,566,600.0,431,7.5,6.5,7.5,8.5,7.7,7.0
+459,"OEM cancellations or delays of MI350 servers distributor rumor",751.7,385,71.7,593,680.7,385,969,822.7,615,7.5,6.7,7.2,8.2,7.5,7.0
+460,"AMD MI350 supply chain orders increase October 2025 DigiTimes",752.8,116,73.4,239,359.3,116,1228,1146.3,707,7.5,6.2,7.2,8.3,8.3,6.8
+461,"OpenAI AMD strategic partnership procurement signals October 2025",753.5,11,74.4,206,600.0,11,647,907.0,386,7.7,6.7,7.5,8.3,7.8,7.5
+462,"SEC filing from AMD indicating a new investigation or inquiry",757.2,68,74.0,1216,1381.0,676,75,133.3,68,7.7,6.7,7.7,8.2,8.0,7.2
+463,"AMD MI350X power consumption efficiency vs Blackwell",757.2,195,72.9,614,673.3,298,503,841.0,195,7.5,6.3,7.3,8.2,8.3,6.8
+464,"export license denial list mentions AMD part numbers MI-series",757.2,16,74.0,22,99.7,16,1441,1414.7,607,7.5,6.3,7.3,8.2,8.0,7.3
+465,"HPE Dell pausing AMD Instinct launches October 2025",758.3,429,71.3,553,495.3,429,1071,1021.3,594,7.3,6.5,7.3,8.0,8.0,7.2
+466,"site:panjiva.com "AMD Instinct" shipments 2025",759.7,230,72.4,374,414.7,230,1096,1104.7,520,7.3,6.2,7.2,8.0,8.7,6.7
+467,"AMD Q4 guidance upside risks from Oracle deal expansions in partner newsletters",760.8,230,72.7,547,739.7,230,523,782.0,231,7.5,6.3,7.3,8.3,8.2,6.8
+468,"Reduction in HBM constraints for AMD via Micron alternative sourcing November 2025",761.2,174,73.0,226,351.3,174,1008,1171.0,529,7.5,6.5,7.5,8.3,7.8,6.7
+469,"OpenAI deployment of AMD accelerators small-scale validation 2025",762.5,306,72.3,676,1037.7,314,446,487.3,306,7.5,6.5,7.5,8.3,8.2,7.2
+470,"overlooked SEC footnotes in AMD filings hinting at revenue surge",763.0,577,70.2,898,663.3,577,844,862.7,594,7.2,6.2,7.2,8.2,8.7,7.3
+471,"ABF substrate shortages affecting AMD shipments October 2025",766.7,402,71.3,608,610.3,402,987,923.0,608,7.5,6.3,7.2,8.3,7.7,6.7
+472,"AMD Q3 earnings meet expectations with stable gross margins analyst notes",767.5,206,72.7,737,868.3,407,462,666.7,206,7.7,6.7,7.3,8.2,8.0,6.0
+473,"Hidden AMD data center demand slowdown in hyperscaler capex cuts",767.7,165,73.1,337,586.7,165,580,948.7,256,7.5,6.5,7.5,8.5,7.8,7.3
+474,"SK hynix HBM3E shipments allocation to AMD Q4 2025 disclosure",767.8,113,73.2,273,461.0,113,1159,1074.7,746,7.5,6.3,7.2,8.3,8.3,6.7
+475,"AMD insider trading patterns before Q3 2025 earnings leaks on dark web forums",769.5,3,74.2,1031,1125.0,450,58,414.0,3,7.5,7.0,7.5,8.0,8.2,8.3
+476,"AMD faces supply constraints for high-bandwidth memory (HBM)",769.8,218,72.7,422,612.7,218,695,927.0,428,7.7,6.5,7.5,8.5,7.5,6.7
+477,"Decline in AMD data center demand signals from cloud providers",770.8,367,71.8,497,484.0,367,706,1057.7,395,7.5,6.5,7.5,8.7,7.7,6.7
+478,"Positive AMD EPS whisper numbers from hedge fund newsletters November 2025",771.0,212,72.7,491,629.3,212,508,912.7,240,7.5,6.5,7.5,8.3,8.0,6.8
+479,"HBM spot price spike Q4 2025 increasing AMD COGS",771.3,193,72.9,1434,1254.0,1002,187,288.7,193,7.7,6.5,7.5,8.3,7.8,7.2
+480,"Whispers of a major enterprise software partnership for AMD AI accelerators",771.5,397,71.3,674,626.7,397,938,916.3,683,7.3,6.3,7.3,8.3,7.8,7.3
+481,"Unexpected partnerships boosting AMD AI revenue in Q4 from press releases",771.5,173,73.0,411,719.3,173,520,823.7,250,7.7,6.5,7.5,8.5,7.7,6.8
+482,"Nvidia dominance eroding AMD market share leaks 2025",773.0,167,73.0,394,678.0,167,624,868.0,351,7.7,6.5,7.5,8.3,7.7,7.2
+483,"Social media sentiment spikes on AMD OpenAI partnership expansions right after November 2025 earnings",773.7,73,73.7,330,685.7,73,382,861.7,123,7.5,6.7,7.5,8.3,8.3,7.0
+484,"site:bis.doc.gov AI accelerator license AMD 2025",774.0,87,73.3,162,226.3,87,1180,1321.7,560,7.2,6.2,7.2,8.3,9.0,7.3
+485,"Yield issues in MI300 packaging reported by Taiwan media Nov 2025",774.2,169,72.9,363,618.7,169,786,929.7,473,7.5,6.3,7.3,8.3,8.2,7.3
+486,"Export controls tighten accelerators to China November 2025 AMD impact",774.3,15,74.0,143,389.0,15,1215,1159.7,843,7.7,6.7,7.7,8.3,7.5,6.8
+487,"AMD announces unexpected share buyback program with earnings release",774.5,51,73.7,172,522.3,51,1007,1026.7,676,7.7,6.8,7.7,8.2,7.5,6.7
+488,"Nvidia Blackwell ahead-of-schedule shipments Q4 2025 report",774.5,297,72.1,301,360.3,297,1325,1188.7,868,7.7,6.5,7.5,8.3,7.5,6.8
+489,"AMD 10-Q risk factor updates hinting export or supply issues Q3 2025 site:sec.gov AMD 10-Q risk",775.0,633,69.6,991,750.0,641,907,800.0,633,7.2,6.2,7.2,8.0,8.7,7.0
+490,"Digitimes TSMC CoWoS capacity allocation increase for AMD Q4 2025",775.5,52,73.5,236,443.7,52,687,1107.3,210,7.5,6.3,7.3,8.2,8.3,6.8
+491,"China export license denial or no-decision for AMD MI308 MI350 shipments",776.2,156,72.8,255,320.0,156,1140,1232.3,655,7.3,6.3,7.3,8.5,7.8,7.3
+492,"chatter about AMD losing AI accelerator deal to competitor",777.0,101,73.3,565,796.3,343,419,757.7,101,7.7,6.5,7.5,8.5,7.3,6.8
+493,"AMD Q3 2025 preliminary revenue upside channel checks sell through site:reddit.com r semiconductors",777.2,229,72.5,393,453.0,229,1332,1101.3,1004,7.5,6.5,7.5,8.2,8.2,6.8
+494,"OpenAI engineering blog hints ROCm parity roadmap internal testing AMD",777.8,167,72.5,1381,1228.7,802,284,327.0,167,7.3,6.2,7.0,8.2,8.5,7.2
+495,"supply chain alerts counterfeit HBM concerns delaying AMD shipments",778.2,402,71.1,713,782.0,402,918,774.3,656,7.3,6.3,7.3,8.2,7.8,7.3
+496,"AMD Q3 2025 earnings preview analyst reports",778.2,32,74.0,671,813.0,414,229,743.3,32,7.8,6.8,7.5,8.7,7.7,5.8
+497,"CoWoS yield improvement specific to AMD package 2025",778.3,362,71.6,543,627.0,362,1142,929.7,842,7.5,6.5,7.5,8.2,8.0,6.7
+498,"Nvidia price cuts on H100 H200 undercut AMD MI350 competitive pressure",779.0,154,73.0,1443,1329.0,1014,171,229.0,154,7.7,6.5,7.5,8.5,7.5,7.0
+499,"SK hynix HBM3E shipments earmarked for AMD MI350 November 2025 logistics leak",780.0,171,72.5,459,578.0,171,903,982.0,505,7.3,6.2,7.2,8.0,8.2,7.5
+500,"SK hynix HBM3E allocations increased for AMD Q4 2025",780.8,107,73.0,1213,1176.3,810,301,385.3,107,7.3,6.3,7.3,8.3,8.0,7.3
